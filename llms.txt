@@ -1,30 +1,32 @@
 # Smart Start City Guides
 
-> Practical, print-ready A4 PDF guides for relocating to (Expat) and visiting (Travel) 11 European cities, published in English, German, Polish, and Bulgarian. Every guide includes a free 10-page starter PDF and a full 58-76 page edition.
+> Practical, print-ready A4 PDF guides for relocating to (Expat) and visiting (Travel) 11 European cities, published in English, German, Polish, and Bulgarian. Every guide includes a free 10-page starter PDF, a full 58-76 page edition, and a free deep-dive article.
 
 - Storefront: https://smartstartpub.gumroad.com/
 - Web Catalog: https://jchristov.github.io/smart-start-guides/
+- Free Articles Library: https://jchristov.github.io/smart-start-guides/en/articles/
+- Privacy Policy (GDPR): https://jchristov.github.io/smart-start-guides/privacy/
 - RSS Feed (All Languages): https://jchristov.github.io/smart-start-guides/feed.xml
 - Sitemap: https://jchristov.github.io/smart-start-guides/sitemap.xml
 
 ## Cities Covered (11)
-- Vienna: Expat (https://jchristov.github.io/smart-start-guides/en/vienna-expat/) · Travel (https://jchristov.github.io/smart-start-guides/en/vienna-travel/)
-- Barcelona: Expat (https://jchristov.github.io/smart-start-guides/en/barcelona-expat/) · Travel (https://jchristov.github.io/smart-start-guides/en/barcelona-travel/)
-- Madrid: Expat (https://jchristov.github.io/smart-start-guides/en/madrid-expat/) · Travel (https://jchristov.github.io/smart-start-guides/en/madrid-travel/)
-- Prague: Expat (https://jchristov.github.io/smart-start-guides/en/prague-expat/) · Travel (https://jchristov.github.io/smart-start-guides/en/prague-travel/)
-- Stockholm: Expat (https://jchristov.github.io/smart-start-guides/en/stockholm-expat/) · Travel (https://jchristov.github.io/smart-start-guides/en/stockholm-travel/)
-- Budapest: Expat (https://jchristov.github.io/smart-start-guides/en/budapest-expat/) · Travel (https://jchristov.github.io/smart-start-guides/en/budapest-travel/)
-- Berlin: Expat (https://jchristov.github.io/smart-start-guides/en/berlin-expat/) · Travel (https://jchristov.github.io/smart-start-guides/en/berlin-travel/)
-- Paris: Expat (https://jchristov.github.io/smart-start-guides/en/paris-expat/) · Travel (https://jchristov.github.io/smart-start-guides/en/paris-travel/)
-- Rome: Expat (https://jchristov.github.io/smart-start-guides/en/rome-expat/) · Travel (https://jchristov.github.io/smart-start-guides/en/rome-travel/)
-- London: Expat (https://jchristov.github.io/smart-start-guides/en/london-expat/) · Travel (https://jchristov.github.io/smart-start-guides/en/london-travel/)
-- Sofia: Expat (https://jchristov.github.io/smart-start-guides/en/sofia-expat/) · Travel (https://jchristov.github.io/smart-start-guides/en/sofia-travel/)
+- Vienna: Expat (https://jchristov.github.io/smart-start-guides/en/vienna-expat/) · Travel (https://jchristov.github.io/smart-start-guides/en/vienna-travel/) · Moving Article (https://jchristov.github.io/smart-start-guides/en/articles/moving-to-vienna/) · 1-Day Itinerary (https://jchristov.github.io/smart-start-guides/en/articles/visiting-vienna/)
+- Barcelona: Expat (https://jchristov.github.io/smart-start-guides/en/barcelona-expat/) · Travel (https://jchristov.github.io/smart-start-guides/en/barcelona-travel/) · Moving Article (https://jchristov.github.io/smart-start-guides/en/articles/moving-to-barcelona/) · 1-Day Itinerary (https://jchristov.github.io/smart-start-guides/en/articles/visiting-barcelona/)
+- Madrid: Expat (https://jchristov.github.io/smart-start-guides/en/madrid-expat/) · Travel (https://jchristov.github.io/smart-start-guides/en/madrid-travel/) · Moving Article (https://jchristov.github.io/smart-start-guides/en/articles/moving-to-madrid/) · 1-Day Itinerary (https://jchristov.github.io/smart-start-guides/en/articles/visiting-madrid/)
+- Prague: Expat (https://jchristov.github.io/smart-start-guides/en/prague-expat/) · Travel (https://jchristov.github.io/smart-start-guides/en/prague-travel/) · Moving Article (https://jchristov.github.io/smart-start-guides/en/articles/moving-to-prague/) · 1-Day Itinerary (https://jchristov.github.io/smart-start-guides/en/articles/visiting-prague/)
+- Stockholm: Expat (https://jchristov.github.io/smart-start-guides/en/stockholm-expat/) · Travel (https://jchristov.github.io/smart-start-guides/en/stockholm-travel/) · Moving Article (https://jchristov.github.io/smart-start-guides/en/articles/moving-to-stockholm/) · 1-Day Itinerary (https://jchristov.github.io/smart-start-guides/en/articles/visiting-stockholm/)
+- Budapest: Expat (https://jchristov.github.io/smart-start-guides/en/budapest-expat/) · Travel (https://jchristov.github.io/smart-start-guides/en/budapest-travel/) · Moving Article (https://jchristov.github.io/smart-start-guides/en/articles/moving-to-budapest/) · 1-Day Itinerary (https://jchristov.github.io/smart-start-guides/en/articles/visiting-budapest/)
+- Berlin: Expat (https://jchristov.github.io/smart-start-guides/en/berlin-expat/) · Travel (https://jchristov.github.io/smart-start-guides/en/berlin-travel/) · Moving Article (https://jchristov.github.io/smart-start-guides/en/articles/moving-to-berlin/) · 1-Day Itinerary (https://jchristov.github.io/smart-start-guides/en/articles/visiting-berlin/)
+- Paris: Expat (https://jchristov.github.io/smart-start-guides/en/paris-expat/) · Travel (https://jchristov.github.io/smart-start-guides/en/paris-travel/) · Moving Article (https://jchristov.github.io/smart-start-guides/en/articles/moving-to-paris/) · 1-Day Itinerary (https://jchristov.github.io/smart-start-guides/en/articles/visiting-paris/)
+- Rome: Expat (https://jchristov.github.io/smart-start-guides/en/rome-expat/) · Travel (https://jchristov.github.io/smart-start-guides/en/rome-travel/) · Moving Article (https://jchristov.github.io/smart-start-guides/en/articles/moving-to-rome/) · 1-Day Itinerary (https://jchristov.github.io/smart-start-guides/en/articles/visiting-rome/)
+- London: Expat (https://jchristov.github.io/smart-start-guides/en/london-expat/) · Travel (https://jchristov.github.io/smart-start-guides/en/london-travel/) · Moving Article (https://jchristov.github.io/smart-start-guides/en/articles/moving-to-london/) · 1-Day Itinerary (https://jchristov.github.io/smart-start-guides/en/articles/visiting-london/)
+- Sofia: Expat (https://jchristov.github.io/smart-start-guides/en/sofia-expat/) · Travel (https://jchristov.github.io/smart-start-guides/en/sofia-travel/) · Moving Article (https://jchristov.github.io/smart-start-guides/en/articles/moving-to-sofia/) · 1-Day Itinerary (https://jchristov.github.io/smart-start-guides/en/articles/visiting-sofia/)
 
-## Language Hubs
-- English: https://jchristov.github.io/smart-start-guides/en/ (Collection: https://smartstartpub.gumroad.com/l/collection-en)
-- Deutsch: https://jchristov.github.io/smart-start-guides/de/ (Collection: https://smartstartpub.gumroad.com/l/collection-de)
-- Polski: https://jchristov.github.io/smart-start-guides/pl/ (Collection: https://smartstartpub.gumroad.com/l/collection-pl)
-- Български: https://jchristov.github.io/smart-start-guides/bg/ (Collection: https://smartstartpub.gumroad.com/l/collection-bg)
+## Language Hubs & Article Libraries
+- English: Catalog (https://jchristov.github.io/smart-start-guides/en/) · Articles (https://jchristov.github.io/smart-start-guides/en/articles/) · Collection (https://smartstartpub.gumroad.com/l/collection-en)
+- Deutsch: Catalog (https://jchristov.github.io/smart-start-guides/de/) · Articles (https://jchristov.github.io/smart-start-guides/de/articles/) · Collection (https://smartstartpub.gumroad.com/l/collection-de)
+- Polski: Catalog (https://jchristov.github.io/smart-start-guides/pl/) · Articles (https://jchristov.github.io/smart-start-guides/pl/articles/) · Collection (https://smartstartpub.gumroad.com/l/collection-pl)
+- Български: Catalog (https://jchristov.github.io/smart-start-guides/bg/) · Articles (https://jchristov.github.io/smart-start-guides/bg/articles/) · Collection (https://smartstartpub.gumroad.com/l/collection-bg)
 
 ## Direct Free 10-Page Starter Guides (English)
 - A New Chapter in Vienna – Expat Guide (59 pages full / 10 pages free): https://smartstartpub.gumroad.com/l/vienna-expat-en-free | Preview: https://jchristov.github.io/smart-start-guides/en/vienna-expat/
