@@ -6,16 +6,7 @@
     <atom:link href="https://jchristov.github.io/smart-start-guides/feed-en.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
     <description>Practical, beautifully designed A4 PDF guides for moving to, living in and exploring 11 European cities. Free 10-page teaser for every guide in EN, DE, PL and BG.</description>
-    <lastBuildDate>Wed, 25 Nov 2026 18:29:28 GMT</lastBuildDate>
-    <item>
-      <title>A New Chapter in Vienna – Expat Guide — Free 10-Page PDF</title>
-      <link>https://smartstartpub.gumroad.com/l/vienna-expat-en-free?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=vienna-expat-en</link>
-      <guid isPermaLink="true">https://jchristov.github.io/smart-start-guides/en/vienna-expat/</guid>
-      <pubDate>Wed, 25 Nov 2026 18:29:28 GMT</pubDate>
-      <description>A practical guide for newcomers to Vienna (59 pages, September 2026). Free 10-page starter PDF available.</description>
-      <enclosure url="https://jchristov.github.io/smart-start-guides/covers/vienna-expat-en-full.jpg" type="image/jpeg" length="24000"/>
-      <media:content url="https://jchristov.github.io/smart-start-guides/covers/vienna-expat-en-full.jpg" medium="image" type="image/jpeg"/>
-    </item>
+    <lastBuildDate>Wed, 25 Nov 2026 18:29:59 GMT</lastBuildDate>
     <item>
       <title>Discover Vienna – Travel Guide — Free 10-Page PDF</title>
       <link>https://smartstartpub.gumroad.com/l/vienna-travel-en-free?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=vienna-travel-en</link>
@@ -204,6 +195,15 @@
       <description>A practical guide for visitors to Sofia (67 pages, October 2026). Free 10-page starter PDF available.</description>
       <enclosure url="https://jchristov.github.io/smart-start-guides/covers/sofia-travel-en-full.jpg" type="image/jpeg" length="24000"/>
       <media:content url="https://jchristov.github.io/smart-start-guides/covers/sofia-travel-en-full.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>A New Chapter in Vienna – Expat Guide — Free 10-Page PDF</title>
+      <link>https://smartstartpub.gumroad.com/l/vienna-expat-en-free?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=vienna-expat-en</link>
+      <guid isPermaLink="true">https://jchristov.github.io/smart-start-guides/en/vienna-expat/</guid>
+      <pubDate>Wed, 25 Nov 2026 18:29:59 GMT</pubDate>
+      <description>A practical guide for newcomers to Vienna (59 pages, September 2026). Free 10-page starter PDF available.</description>
+      <enclosure url="https://jchristov.github.io/smart-start-guides/covers/vienna-expat-en-full.jpg" type="image/jpeg" length="24000"/>
+      <media:content url="https://jchristov.github.io/smart-start-guides/covers/vienna-expat-en-full.jpg" medium="image" type="image/jpeg"/>
     </item>
   </channel>
 </rss>

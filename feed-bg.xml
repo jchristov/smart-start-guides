@@ -6,16 +6,7 @@
     <atom:link href="https://jchristov.github.io/smart-start-guides/feed-bg.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
     <description>Практични, елегантно оформени A4 PDF наръчници за преместване, живот и пътуване в 11 европейски града. Безплатна 10-странична версия за всеки град.</description>
-    <lastBuildDate>Wed, 25 Nov 2026 18:29:28 GMT</lastBuildDate>
-    <item>
-      <title>Нова глава във Виена – Наръчник за новодошли — Free 10-Page PDF</title>
-      <link>https://smartstartpub.gumroad.com/l/vienna-expat-bg-free?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=vienna-expat-bg</link>
-      <guid isPermaLink="true">https://jchristov.github.io/smart-start-guides/bg/vienna-expat/</guid>
-      <pubDate>Wed, 25 Nov 2026 18:29:28 GMT</pubDate>
-      <description>Практически наръчник за новодошлите във Виена (59 pages, Септември 2026). Free 10-page starter PDF available.</description>
-      <enclosure url="https://jchristov.github.io/smart-start-guides/covers/vienna-expat-bg-full.jpg" type="image/jpeg" length="24000"/>
-      <media:content url="https://jchristov.github.io/smart-start-guides/covers/vienna-expat-bg-full.jpg" medium="image" type="image/jpeg"/>
-    </item>
+    <lastBuildDate>Wed, 25 Nov 2026 18:29:59 GMT</lastBuildDate>
     <item>
       <title>Открийте Виена – Пътеводител — Free 10-Page PDF</title>
       <link>https://smartstartpub.gumroad.com/l/vienna-travel-bg-free?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=vienna-travel-bg</link>
@@ -204,6 +195,15 @@
       <description>Практически пътеводител за посетителите на София (67 pages, Октомври 2026). Free 10-page starter PDF available.</description>
       <enclosure url="https://jchristov.github.io/smart-start-guides/covers/sofia-travel-bg-full.jpg" type="image/jpeg" length="24000"/>
       <media:content url="https://jchristov.github.io/smart-start-guides/covers/sofia-travel-bg-full.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Нова глава във Виена – Наръчник за новодошли — Free 10-Page PDF</title>
+      <link>https://smartstartpub.gumroad.com/l/vienna-expat-bg-free?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=vienna-expat-bg</link>
+      <guid isPermaLink="true">https://jchristov.github.io/smart-start-guides/bg/vienna-expat/</guid>
+      <pubDate>Wed, 25 Nov 2026 18:29:59 GMT</pubDate>
+      <description>Практически наръчник за новодошлите във Виена (59 pages, Септември 2026). Free 10-page starter PDF available.</description>
+      <enclosure url="https://jchristov.github.io/smart-start-guides/covers/vienna-expat-bg-full.jpg" type="image/jpeg" length="24000"/>
+      <media:content url="https://jchristov.github.io/smart-start-guides/covers/vienna-expat-bg-full.jpg" medium="image" type="image/jpeg"/>
     </item>
   </channel>
 </rss>
