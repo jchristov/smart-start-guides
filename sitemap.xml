@@ -52,6 +52,42 @@
     <xhtml:link rel="alternate" hreflang="bg" href="https://jchristov.github.io/smart-start-guides/bg/"/>
   </url>
   <url>
+    <loc>https://jchristov.github.io/smart-start-guides/en/articles/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jchristov.github.io/smart-start-guides/en/articles/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jchristov.github.io/smart-start-guides/de/articles/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://jchristov.github.io/smart-start-guides/pl/articles/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://jchristov.github.io/smart-start-guides/bg/articles/"/>
+  </url>
+  <url>
+    <loc>https://jchristov.github.io/smart-start-guides/de/articles/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jchristov.github.io/smart-start-guides/en/articles/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jchristov.github.io/smart-start-guides/de/articles/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://jchristov.github.io/smart-start-guides/pl/articles/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://jchristov.github.io/smart-start-guides/bg/articles/"/>
+  </url>
+  <url>
+    <loc>https://jchristov.github.io/smart-start-guides/pl/articles/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jchristov.github.io/smart-start-guides/en/articles/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jchristov.github.io/smart-start-guides/de/articles/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://jchristov.github.io/smart-start-guides/pl/articles/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://jchristov.github.io/smart-start-guides/bg/articles/"/>
+  </url>
+  <url>
+    <loc>https://jchristov.github.io/smart-start-guides/bg/articles/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jchristov.github.io/smart-start-guides/en/articles/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jchristov.github.io/smart-start-guides/de/articles/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://jchristov.github.io/smart-start-guides/pl/articles/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://jchristov.github.io/smart-start-guides/bg/articles/"/>
+  </url>
+  <url>
     <loc>https://jchristov.github.io/smart-start-guides/en/vienna-expat/</loc>
     <lastmod>2026-11-25</lastmod>
     <changefreq>weekly</changefreq>
@@ -842,5 +878,797 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://jchristov.github.io/smart-start-guides/de/sofia-travel/"/>
     <xhtml:link rel="alternate" hreflang="pl" href="https://jchristov.github.io/smart-start-guides/pl/sofia-travel/"/>
     <xhtml:link rel="alternate" hreflang="bg" href="https://jchristov.github.io/smart-start-guides/bg/sofia-travel/"/>
+  </url>
+  <url>
+    <loc>https://jchristov.github.io/smart-start-guides/en/articles/moving-to-vienna/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jchristov.github.io/smart-start-guides/en/articles/moving-to-vienna/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jchristov.github.io/smart-start-guides/de/articles/moving-to-vienna/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://jchristov.github.io/smart-start-guides/pl/articles/moving-to-vienna/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://jchristov.github.io/smart-start-guides/bg/articles/moving-to-vienna/"/>
+  </url>
+  <url>
+    <loc>https://jchristov.github.io/smart-start-guides/de/articles/moving-to-vienna/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jchristov.github.io/smart-start-guides/en/articles/moving-to-vienna/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jchristov.github.io/smart-start-guides/de/articles/moving-to-vienna/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://jchristov.github.io/smart-start-guides/pl/articles/moving-to-vienna/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://jchristov.github.io/smart-start-guides/bg/articles/moving-to-vienna/"/>
+  </url>
+  <url>
+    <loc>https://jchristov.github.io/smart-start-guides/pl/articles/moving-to-vienna/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jchristov.github.io/smart-start-guides/en/articles/moving-to-vienna/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jchristov.github.io/smart-start-guides/de/articles/moving-to-vienna/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://jchristov.github.io/smart-start-guides/pl/articles/moving-to-vienna/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://jchristov.github.io/smart-start-guides/bg/articles/moving-to-vienna/"/>
+  </url>
+  <url>
+    <loc>https://jchristov.github.io/smart-start-guides/bg/articles/moving-to-vienna/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jchristov.github.io/smart-start-guides/en/articles/moving-to-vienna/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jchristov.github.io/smart-start-guides/de/articles/moving-to-vienna/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://jchristov.github.io/smart-start-guides/pl/articles/moving-to-vienna/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://jchristov.github.io/smart-start-guides/bg/articles/moving-to-vienna/"/>
+  </url>
+  <url>
+    <loc>https://jchristov.github.io/smart-start-guides/en/articles/visiting-vienna/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jchristov.github.io/smart-start-guides/en/articles/visiting-vienna/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jchristov.github.io/smart-start-guides/de/articles/visiting-vienna/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://jchristov.github.io/smart-start-guides/pl/articles/visiting-vienna/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://jchristov.github.io/smart-start-guides/bg/articles/visiting-vienna/"/>
+  </url>
+  <url>
+    <loc>https://jchristov.github.io/smart-start-guides/de/articles/visiting-vienna/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jchristov.github.io/smart-start-guides/en/articles/visiting-vienna/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jchristov.github.io/smart-start-guides/de/articles/visiting-vienna/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://jchristov.github.io/smart-start-guides/pl/articles/visiting-vienna/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://jchristov.github.io/smart-start-guides/bg/articles/visiting-vienna/"/>
+  </url>
+  <url>
+    <loc>https://jchristov.github.io/smart-start-guides/pl/articles/visiting-vienna/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jchristov.github.io/smart-start-guides/en/articles/visiting-vienna/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jchristov.github.io/smart-start-guides/de/articles/visiting-vienna/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://jchristov.github.io/smart-start-guides/pl/articles/visiting-vienna/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://jchristov.github.io/smart-start-guides/bg/articles/visiting-vienna/"/>
+  </url>
+  <url>
+    <loc>https://jchristov.github.io/smart-start-guides/bg/articles/visiting-vienna/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jchristov.github.io/smart-start-guides/en/articles/visiting-vienna/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jchristov.github.io/smart-start-guides/de/articles/visiting-vienna/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://jchristov.github.io/smart-start-guides/pl/articles/visiting-vienna/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://jchristov.github.io/smart-start-guides/bg/articles/visiting-vienna/"/>
+  </url>
+  <url>
+    <loc>https://jchristov.github.io/smart-start-guides/en/articles/moving-to-barcelona/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jchristov.github.io/smart-start-guides/en/articles/moving-to-barcelona/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jchristov.github.io/smart-start-guides/de/articles/moving-to-barcelona/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://jchristov.github.io/smart-start-guides/pl/articles/moving-to-barcelona/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://jchristov.github.io/smart-start-guides/bg/articles/moving-to-barcelona/"/>
+  </url>
+  <url>
+    <loc>https://jchristov.github.io/smart-start-guides/de/articles/moving-to-barcelona/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jchristov.github.io/smart-start-guides/en/articles/moving-to-barcelona/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jchristov.github.io/smart-start-guides/de/articles/moving-to-barcelona/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://jchristov.github.io/smart-start-guides/pl/articles/moving-to-barcelona/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://jchristov.github.io/smart-start-guides/bg/articles/moving-to-barcelona/"/>
+  </url>
+  <url>
+    <loc>https://jchristov.github.io/smart-start-guides/pl/articles/moving-to-barcelona/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jchristov.github.io/smart-start-guides/en/articles/moving-to-barcelona/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jchristov.github.io/smart-start-guides/de/articles/moving-to-barcelona/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://jchristov.github.io/smart-start-guides/pl/articles/moving-to-barcelona/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://jchristov.github.io/smart-start-guides/bg/articles/moving-to-barcelona/"/>
+  </url>
+  <url>
+    <loc>https://jchristov.github.io/smart-start-guides/bg/articles/moving-to-barcelona/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jchristov.github.io/smart-start-guides/en/articles/moving-to-barcelona/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jchristov.github.io/smart-start-guides/de/articles/moving-to-barcelona/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://jchristov.github.io/smart-start-guides/pl/articles/moving-to-barcelona/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://jchristov.github.io/smart-start-guides/bg/articles/moving-to-barcelona/"/>
+  </url>
+  <url>
+    <loc>https://jchristov.github.io/smart-start-guides/en/articles/visiting-barcelona/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jchristov.github.io/smart-start-guides/en/articles/visiting-barcelona/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jchristov.github.io/smart-start-guides/de/articles/visiting-barcelona/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://jchristov.github.io/smart-start-guides/pl/articles/visiting-barcelona/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://jchristov.github.io/smart-start-guides/bg/articles/visiting-barcelona/"/>
+  </url>
+  <url>
+    <loc>https://jchristov.github.io/smart-start-guides/de/articles/visiting-barcelona/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jchristov.github.io/smart-start-guides/en/articles/visiting-barcelona/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jchristov.github.io/smart-start-guides/de/articles/visiting-barcelona/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://jchristov.github.io/smart-start-guides/pl/articles/visiting-barcelona/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://jchristov.github.io/smart-start-guides/bg/articles/visiting-barcelona/"/>
+  </url>
+  <url>
+    <loc>https://jchristov.github.io/smart-start-guides/pl/articles/visiting-barcelona/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jchristov.github.io/smart-start-guides/en/articles/visiting-barcelona/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jchristov.github.io/smart-start-guides/de/articles/visiting-barcelona/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://jchristov.github.io/smart-start-guides/pl/articles/visiting-barcelona/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://jchristov.github.io/smart-start-guides/bg/articles/visiting-barcelona/"/>
+  </url>
+  <url>
+    <loc>https://jchristov.github.io/smart-start-guides/bg/articles/visiting-barcelona/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jchristov.github.io/smart-start-guides/en/articles/visiting-barcelona/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jchristov.github.io/smart-start-guides/de/articles/visiting-barcelona/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://jchristov.github.io/smart-start-guides/pl/articles/visiting-barcelona/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://jchristov.github.io/smart-start-guides/bg/articles/visiting-barcelona/"/>
+  </url>
+  <url>
+    <loc>https://jchristov.github.io/smart-start-guides/en/articles/moving-to-madrid/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jchristov.github.io/smart-start-guides/en/articles/moving-to-madrid/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jchristov.github.io/smart-start-guides/de/articles/moving-to-madrid/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://jchristov.github.io/smart-start-guides/pl/articles/moving-to-madrid/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://jchristov.github.io/smart-start-guides/bg/articles/moving-to-madrid/"/>
+  </url>
+  <url>
+    <loc>https://jchristov.github.io/smart-start-guides/de/articles/moving-to-madrid/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jchristov.github.io/smart-start-guides/en/articles/moving-to-madrid/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jchristov.github.io/smart-start-guides/de/articles/moving-to-madrid/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://jchristov.github.io/smart-start-guides/pl/articles/moving-to-madrid/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://jchristov.github.io/smart-start-guides/bg/articles/moving-to-madrid/"/>
+  </url>
+  <url>
+    <loc>https://jchristov.github.io/smart-start-guides/pl/articles/moving-to-madrid/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jchristov.github.io/smart-start-guides/en/articles/moving-to-madrid/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jchristov.github.io/smart-start-guides/de/articles/moving-to-madrid/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://jchristov.github.io/smart-start-guides/pl/articles/moving-to-madrid/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://jchristov.github.io/smart-start-guides/bg/articles/moving-to-madrid/"/>
+  </url>
+  <url>
+    <loc>https://jchristov.github.io/smart-start-guides/bg/articles/moving-to-madrid/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jchristov.github.io/smart-start-guides/en/articles/moving-to-madrid/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jchristov.github.io/smart-start-guides/de/articles/moving-to-madrid/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://jchristov.github.io/smart-start-guides/pl/articles/moving-to-madrid/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://jchristov.github.io/smart-start-guides/bg/articles/moving-to-madrid/"/>
+  </url>
+  <url>
+    <loc>https://jchristov.github.io/smart-start-guides/en/articles/visiting-madrid/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jchristov.github.io/smart-start-guides/en/articles/visiting-madrid/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jchristov.github.io/smart-start-guides/de/articles/visiting-madrid/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://jchristov.github.io/smart-start-guides/pl/articles/visiting-madrid/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://jchristov.github.io/smart-start-guides/bg/articles/visiting-madrid/"/>
+  </url>
+  <url>
+    <loc>https://jchristov.github.io/smart-start-guides/de/articles/visiting-madrid/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jchristov.github.io/smart-start-guides/en/articles/visiting-madrid/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jchristov.github.io/smart-start-guides/de/articles/visiting-madrid/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://jchristov.github.io/smart-start-guides/pl/articles/visiting-madrid/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://jchristov.github.io/smart-start-guides/bg/articles/visiting-madrid/"/>
+  </url>
+  <url>
+    <loc>https://jchristov.github.io/smart-start-guides/pl/articles/visiting-madrid/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jchristov.github.io/smart-start-guides/en/articles/visiting-madrid/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jchristov.github.io/smart-start-guides/de/articles/visiting-madrid/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://jchristov.github.io/smart-start-guides/pl/articles/visiting-madrid/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://jchristov.github.io/smart-start-guides/bg/articles/visiting-madrid/"/>
+  </url>
+  <url>
+    <loc>https://jchristov.github.io/smart-start-guides/bg/articles/visiting-madrid/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jchristov.github.io/smart-start-guides/en/articles/visiting-madrid/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jchristov.github.io/smart-start-guides/de/articles/visiting-madrid/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://jchristov.github.io/smart-start-guides/pl/articles/visiting-madrid/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://jchristov.github.io/smart-start-guides/bg/articles/visiting-madrid/"/>
+  </url>
+  <url>
+    <loc>https://jchristov.github.io/smart-start-guides/en/articles/moving-to-prague/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jchristov.github.io/smart-start-guides/en/articles/moving-to-prague/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jchristov.github.io/smart-start-guides/de/articles/moving-to-prague/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://jchristov.github.io/smart-start-guides/pl/articles/moving-to-prague/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://jchristov.github.io/smart-start-guides/bg/articles/moving-to-prague/"/>
+  </url>
+  <url>
+    <loc>https://jchristov.github.io/smart-start-guides/de/articles/moving-to-prague/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jchristov.github.io/smart-start-guides/en/articles/moving-to-prague/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jchristov.github.io/smart-start-guides/de/articles/moving-to-prague/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://jchristov.github.io/smart-start-guides/pl/articles/moving-to-prague/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://jchristov.github.io/smart-start-guides/bg/articles/moving-to-prague/"/>
+  </url>
+  <url>
+    <loc>https://jchristov.github.io/smart-start-guides/pl/articles/moving-to-prague/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jchristov.github.io/smart-start-guides/en/articles/moving-to-prague/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jchristov.github.io/smart-start-guides/de/articles/moving-to-prague/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://jchristov.github.io/smart-start-guides/pl/articles/moving-to-prague/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://jchristov.github.io/smart-start-guides/bg/articles/moving-to-prague/"/>
+  </url>
+  <url>
+    <loc>https://jchristov.github.io/smart-start-guides/bg/articles/moving-to-prague/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jchristov.github.io/smart-start-guides/en/articles/moving-to-prague/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jchristov.github.io/smart-start-guides/de/articles/moving-to-prague/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://jchristov.github.io/smart-start-guides/pl/articles/moving-to-prague/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://jchristov.github.io/smart-start-guides/bg/articles/moving-to-prague/"/>
+  </url>
+  <url>
+    <loc>https://jchristov.github.io/smart-start-guides/en/articles/visiting-prague/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jchristov.github.io/smart-start-guides/en/articles/visiting-prague/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jchristov.github.io/smart-start-guides/de/articles/visiting-prague/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://jchristov.github.io/smart-start-guides/pl/articles/visiting-prague/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://jchristov.github.io/smart-start-guides/bg/articles/visiting-prague/"/>
+  </url>
+  <url>
+    <loc>https://jchristov.github.io/smart-start-guides/de/articles/visiting-prague/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jchristov.github.io/smart-start-guides/en/articles/visiting-prague/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jchristov.github.io/smart-start-guides/de/articles/visiting-prague/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://jchristov.github.io/smart-start-guides/pl/articles/visiting-prague/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://jchristov.github.io/smart-start-guides/bg/articles/visiting-prague/"/>
+  </url>
+  <url>
+    <loc>https://jchristov.github.io/smart-start-guides/pl/articles/visiting-prague/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jchristov.github.io/smart-start-guides/en/articles/visiting-prague/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jchristov.github.io/smart-start-guides/de/articles/visiting-prague/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://jchristov.github.io/smart-start-guides/pl/articles/visiting-prague/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://jchristov.github.io/smart-start-guides/bg/articles/visiting-prague/"/>
+  </url>
+  <url>
+    <loc>https://jchristov.github.io/smart-start-guides/bg/articles/visiting-prague/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jchristov.github.io/smart-start-guides/en/articles/visiting-prague/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jchristov.github.io/smart-start-guides/de/articles/visiting-prague/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://jchristov.github.io/smart-start-guides/pl/articles/visiting-prague/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://jchristov.github.io/smart-start-guides/bg/articles/visiting-prague/"/>
+  </url>
+  <url>
+    <loc>https://jchristov.github.io/smart-start-guides/en/articles/moving-to-stockholm/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jchristov.github.io/smart-start-guides/en/articles/moving-to-stockholm/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jchristov.github.io/smart-start-guides/de/articles/moving-to-stockholm/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://jchristov.github.io/smart-start-guides/pl/articles/moving-to-stockholm/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://jchristov.github.io/smart-start-guides/bg/articles/moving-to-stockholm/"/>
+  </url>
+  <url>
+    <loc>https://jchristov.github.io/smart-start-guides/de/articles/moving-to-stockholm/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jchristov.github.io/smart-start-guides/en/articles/moving-to-stockholm/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jchristov.github.io/smart-start-guides/de/articles/moving-to-stockholm/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://jchristov.github.io/smart-start-guides/pl/articles/moving-to-stockholm/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://jchristov.github.io/smart-start-guides/bg/articles/moving-to-stockholm/"/>
+  </url>
+  <url>
+    <loc>https://jchristov.github.io/smart-start-guides/pl/articles/moving-to-stockholm/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jchristov.github.io/smart-start-guides/en/articles/moving-to-stockholm/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jchristov.github.io/smart-start-guides/de/articles/moving-to-stockholm/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://jchristov.github.io/smart-start-guides/pl/articles/moving-to-stockholm/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://jchristov.github.io/smart-start-guides/bg/articles/moving-to-stockholm/"/>
+  </url>
+  <url>
+    <loc>https://jchristov.github.io/smart-start-guides/bg/articles/moving-to-stockholm/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jchristov.github.io/smart-start-guides/en/articles/moving-to-stockholm/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jchristov.github.io/smart-start-guides/de/articles/moving-to-stockholm/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://jchristov.github.io/smart-start-guides/pl/articles/moving-to-stockholm/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://jchristov.github.io/smart-start-guides/bg/articles/moving-to-stockholm/"/>
+  </url>
+  <url>
+    <loc>https://jchristov.github.io/smart-start-guides/en/articles/visiting-stockholm/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jchristov.github.io/smart-start-guides/en/articles/visiting-stockholm/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jchristov.github.io/smart-start-guides/de/articles/visiting-stockholm/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://jchristov.github.io/smart-start-guides/pl/articles/visiting-stockholm/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://jchristov.github.io/smart-start-guides/bg/articles/visiting-stockholm/"/>
+  </url>
+  <url>
+    <loc>https://jchristov.github.io/smart-start-guides/de/articles/visiting-stockholm/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jchristov.github.io/smart-start-guides/en/articles/visiting-stockholm/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jchristov.github.io/smart-start-guides/de/articles/visiting-stockholm/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://jchristov.github.io/smart-start-guides/pl/articles/visiting-stockholm/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://jchristov.github.io/smart-start-guides/bg/articles/visiting-stockholm/"/>
+  </url>
+  <url>
+    <loc>https://jchristov.github.io/smart-start-guides/pl/articles/visiting-stockholm/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jchristov.github.io/smart-start-guides/en/articles/visiting-stockholm/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jchristov.github.io/smart-start-guides/de/articles/visiting-stockholm/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://jchristov.github.io/smart-start-guides/pl/articles/visiting-stockholm/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://jchristov.github.io/smart-start-guides/bg/articles/visiting-stockholm/"/>
+  </url>
+  <url>
+    <loc>https://jchristov.github.io/smart-start-guides/bg/articles/visiting-stockholm/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jchristov.github.io/smart-start-guides/en/articles/visiting-stockholm/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jchristov.github.io/smart-start-guides/de/articles/visiting-stockholm/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://jchristov.github.io/smart-start-guides/pl/articles/visiting-stockholm/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://jchristov.github.io/smart-start-guides/bg/articles/visiting-stockholm/"/>
+  </url>
+  <url>
+    <loc>https://jchristov.github.io/smart-start-guides/en/articles/moving-to-budapest/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jchristov.github.io/smart-start-guides/en/articles/moving-to-budapest/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jchristov.github.io/smart-start-guides/de/articles/moving-to-budapest/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://jchristov.github.io/smart-start-guides/pl/articles/moving-to-budapest/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://jchristov.github.io/smart-start-guides/bg/articles/moving-to-budapest/"/>
+  </url>
+  <url>
+    <loc>https://jchristov.github.io/smart-start-guides/de/articles/moving-to-budapest/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jchristov.github.io/smart-start-guides/en/articles/moving-to-budapest/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jchristov.github.io/smart-start-guides/de/articles/moving-to-budapest/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://jchristov.github.io/smart-start-guides/pl/articles/moving-to-budapest/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://jchristov.github.io/smart-start-guides/bg/articles/moving-to-budapest/"/>
+  </url>
+  <url>
+    <loc>https://jchristov.github.io/smart-start-guides/pl/articles/moving-to-budapest/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jchristov.github.io/smart-start-guides/en/articles/moving-to-budapest/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jchristov.github.io/smart-start-guides/de/articles/moving-to-budapest/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://jchristov.github.io/smart-start-guides/pl/articles/moving-to-budapest/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://jchristov.github.io/smart-start-guides/bg/articles/moving-to-budapest/"/>
+  </url>
+  <url>
+    <loc>https://jchristov.github.io/smart-start-guides/bg/articles/moving-to-budapest/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jchristov.github.io/smart-start-guides/en/articles/moving-to-budapest/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jchristov.github.io/smart-start-guides/de/articles/moving-to-budapest/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://jchristov.github.io/smart-start-guides/pl/articles/moving-to-budapest/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://jchristov.github.io/smart-start-guides/bg/articles/moving-to-budapest/"/>
+  </url>
+  <url>
+    <loc>https://jchristov.github.io/smart-start-guides/en/articles/visiting-budapest/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jchristov.github.io/smart-start-guides/en/articles/visiting-budapest/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jchristov.github.io/smart-start-guides/de/articles/visiting-budapest/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://jchristov.github.io/smart-start-guides/pl/articles/visiting-budapest/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://jchristov.github.io/smart-start-guides/bg/articles/visiting-budapest/"/>
+  </url>
+  <url>
+    <loc>https://jchristov.github.io/smart-start-guides/de/articles/visiting-budapest/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jchristov.github.io/smart-start-guides/en/articles/visiting-budapest/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jchristov.github.io/smart-start-guides/de/articles/visiting-budapest/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://jchristov.github.io/smart-start-guides/pl/articles/visiting-budapest/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://jchristov.github.io/smart-start-guides/bg/articles/visiting-budapest/"/>
+  </url>
+  <url>
+    <loc>https://jchristov.github.io/smart-start-guides/pl/articles/visiting-budapest/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jchristov.github.io/smart-start-guides/en/articles/visiting-budapest/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jchristov.github.io/smart-start-guides/de/articles/visiting-budapest/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://jchristov.github.io/smart-start-guides/pl/articles/visiting-budapest/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://jchristov.github.io/smart-start-guides/bg/articles/visiting-budapest/"/>
+  </url>
+  <url>
+    <loc>https://jchristov.github.io/smart-start-guides/bg/articles/visiting-budapest/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jchristov.github.io/smart-start-guides/en/articles/visiting-budapest/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jchristov.github.io/smart-start-guides/de/articles/visiting-budapest/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://jchristov.github.io/smart-start-guides/pl/articles/visiting-budapest/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://jchristov.github.io/smart-start-guides/bg/articles/visiting-budapest/"/>
+  </url>
+  <url>
+    <loc>https://jchristov.github.io/smart-start-guides/en/articles/moving-to-berlin/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jchristov.github.io/smart-start-guides/en/articles/moving-to-berlin/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jchristov.github.io/smart-start-guides/de/articles/moving-to-berlin/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://jchristov.github.io/smart-start-guides/pl/articles/moving-to-berlin/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://jchristov.github.io/smart-start-guides/bg/articles/moving-to-berlin/"/>
+  </url>
+  <url>
+    <loc>https://jchristov.github.io/smart-start-guides/de/articles/moving-to-berlin/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jchristov.github.io/smart-start-guides/en/articles/moving-to-berlin/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jchristov.github.io/smart-start-guides/de/articles/moving-to-berlin/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://jchristov.github.io/smart-start-guides/pl/articles/moving-to-berlin/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://jchristov.github.io/smart-start-guides/bg/articles/moving-to-berlin/"/>
+  </url>
+  <url>
+    <loc>https://jchristov.github.io/smart-start-guides/pl/articles/moving-to-berlin/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jchristov.github.io/smart-start-guides/en/articles/moving-to-berlin/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jchristov.github.io/smart-start-guides/de/articles/moving-to-berlin/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://jchristov.github.io/smart-start-guides/pl/articles/moving-to-berlin/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://jchristov.github.io/smart-start-guides/bg/articles/moving-to-berlin/"/>
+  </url>
+  <url>
+    <loc>https://jchristov.github.io/smart-start-guides/bg/articles/moving-to-berlin/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jchristov.github.io/smart-start-guides/en/articles/moving-to-berlin/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jchristov.github.io/smart-start-guides/de/articles/moving-to-berlin/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://jchristov.github.io/smart-start-guides/pl/articles/moving-to-berlin/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://jchristov.github.io/smart-start-guides/bg/articles/moving-to-berlin/"/>
+  </url>
+  <url>
+    <loc>https://jchristov.github.io/smart-start-guides/en/articles/visiting-berlin/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jchristov.github.io/smart-start-guides/en/articles/visiting-berlin/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jchristov.github.io/smart-start-guides/de/articles/visiting-berlin/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://jchristov.github.io/smart-start-guides/pl/articles/visiting-berlin/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://jchristov.github.io/smart-start-guides/bg/articles/visiting-berlin/"/>
+  </url>
+  <url>
+    <loc>https://jchristov.github.io/smart-start-guides/de/articles/visiting-berlin/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jchristov.github.io/smart-start-guides/en/articles/visiting-berlin/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jchristov.github.io/smart-start-guides/de/articles/visiting-berlin/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://jchristov.github.io/smart-start-guides/pl/articles/visiting-berlin/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://jchristov.github.io/smart-start-guides/bg/articles/visiting-berlin/"/>
+  </url>
+  <url>
+    <loc>https://jchristov.github.io/smart-start-guides/pl/articles/visiting-berlin/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jchristov.github.io/smart-start-guides/en/articles/visiting-berlin/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jchristov.github.io/smart-start-guides/de/articles/visiting-berlin/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://jchristov.github.io/smart-start-guides/pl/articles/visiting-berlin/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://jchristov.github.io/smart-start-guides/bg/articles/visiting-berlin/"/>
+  </url>
+  <url>
+    <loc>https://jchristov.github.io/smart-start-guides/bg/articles/visiting-berlin/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jchristov.github.io/smart-start-guides/en/articles/visiting-berlin/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jchristov.github.io/smart-start-guides/de/articles/visiting-berlin/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://jchristov.github.io/smart-start-guides/pl/articles/visiting-berlin/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://jchristov.github.io/smart-start-guides/bg/articles/visiting-berlin/"/>
+  </url>
+  <url>
+    <loc>https://jchristov.github.io/smart-start-guides/en/articles/moving-to-paris/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jchristov.github.io/smart-start-guides/en/articles/moving-to-paris/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jchristov.github.io/smart-start-guides/de/articles/moving-to-paris/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://jchristov.github.io/smart-start-guides/pl/articles/moving-to-paris/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://jchristov.github.io/smart-start-guides/bg/articles/moving-to-paris/"/>
+  </url>
+  <url>
+    <loc>https://jchristov.github.io/smart-start-guides/de/articles/moving-to-paris/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jchristov.github.io/smart-start-guides/en/articles/moving-to-paris/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jchristov.github.io/smart-start-guides/de/articles/moving-to-paris/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://jchristov.github.io/smart-start-guides/pl/articles/moving-to-paris/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://jchristov.github.io/smart-start-guides/bg/articles/moving-to-paris/"/>
+  </url>
+  <url>
+    <loc>https://jchristov.github.io/smart-start-guides/pl/articles/moving-to-paris/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jchristov.github.io/smart-start-guides/en/articles/moving-to-paris/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jchristov.github.io/smart-start-guides/de/articles/moving-to-paris/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://jchristov.github.io/smart-start-guides/pl/articles/moving-to-paris/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://jchristov.github.io/smart-start-guides/bg/articles/moving-to-paris/"/>
+  </url>
+  <url>
+    <loc>https://jchristov.github.io/smart-start-guides/bg/articles/moving-to-paris/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jchristov.github.io/smart-start-guides/en/articles/moving-to-paris/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jchristov.github.io/smart-start-guides/de/articles/moving-to-paris/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://jchristov.github.io/smart-start-guides/pl/articles/moving-to-paris/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://jchristov.github.io/smart-start-guides/bg/articles/moving-to-paris/"/>
+  </url>
+  <url>
+    <loc>https://jchristov.github.io/smart-start-guides/en/articles/visiting-paris/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jchristov.github.io/smart-start-guides/en/articles/visiting-paris/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jchristov.github.io/smart-start-guides/de/articles/visiting-paris/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://jchristov.github.io/smart-start-guides/pl/articles/visiting-paris/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://jchristov.github.io/smart-start-guides/bg/articles/visiting-paris/"/>
+  </url>
+  <url>
+    <loc>https://jchristov.github.io/smart-start-guides/de/articles/visiting-paris/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jchristov.github.io/smart-start-guides/en/articles/visiting-paris/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jchristov.github.io/smart-start-guides/de/articles/visiting-paris/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://jchristov.github.io/smart-start-guides/pl/articles/visiting-paris/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://jchristov.github.io/smart-start-guides/bg/articles/visiting-paris/"/>
+  </url>
+  <url>
+    <loc>https://jchristov.github.io/smart-start-guides/pl/articles/visiting-paris/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jchristov.github.io/smart-start-guides/en/articles/visiting-paris/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jchristov.github.io/smart-start-guides/de/articles/visiting-paris/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://jchristov.github.io/smart-start-guides/pl/articles/visiting-paris/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://jchristov.github.io/smart-start-guides/bg/articles/visiting-paris/"/>
+  </url>
+  <url>
+    <loc>https://jchristov.github.io/smart-start-guides/bg/articles/visiting-paris/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jchristov.github.io/smart-start-guides/en/articles/visiting-paris/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jchristov.github.io/smart-start-guides/de/articles/visiting-paris/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://jchristov.github.io/smart-start-guides/pl/articles/visiting-paris/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://jchristov.github.io/smart-start-guides/bg/articles/visiting-paris/"/>
+  </url>
+  <url>
+    <loc>https://jchristov.github.io/smart-start-guides/en/articles/moving-to-rome/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jchristov.github.io/smart-start-guides/en/articles/moving-to-rome/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jchristov.github.io/smart-start-guides/de/articles/moving-to-rome/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://jchristov.github.io/smart-start-guides/pl/articles/moving-to-rome/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://jchristov.github.io/smart-start-guides/bg/articles/moving-to-rome/"/>
+  </url>
+  <url>
+    <loc>https://jchristov.github.io/smart-start-guides/de/articles/moving-to-rome/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jchristov.github.io/smart-start-guides/en/articles/moving-to-rome/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jchristov.github.io/smart-start-guides/de/articles/moving-to-rome/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://jchristov.github.io/smart-start-guides/pl/articles/moving-to-rome/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://jchristov.github.io/smart-start-guides/bg/articles/moving-to-rome/"/>
+  </url>
+  <url>
+    <loc>https://jchristov.github.io/smart-start-guides/pl/articles/moving-to-rome/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jchristov.github.io/smart-start-guides/en/articles/moving-to-rome/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jchristov.github.io/smart-start-guides/de/articles/moving-to-rome/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://jchristov.github.io/smart-start-guides/pl/articles/moving-to-rome/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://jchristov.github.io/smart-start-guides/bg/articles/moving-to-rome/"/>
+  </url>
+  <url>
+    <loc>https://jchristov.github.io/smart-start-guides/bg/articles/moving-to-rome/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jchristov.github.io/smart-start-guides/en/articles/moving-to-rome/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jchristov.github.io/smart-start-guides/de/articles/moving-to-rome/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://jchristov.github.io/smart-start-guides/pl/articles/moving-to-rome/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://jchristov.github.io/smart-start-guides/bg/articles/moving-to-rome/"/>
+  </url>
+  <url>
+    <loc>https://jchristov.github.io/smart-start-guides/en/articles/visiting-rome/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jchristov.github.io/smart-start-guides/en/articles/visiting-rome/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jchristov.github.io/smart-start-guides/de/articles/visiting-rome/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://jchristov.github.io/smart-start-guides/pl/articles/visiting-rome/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://jchristov.github.io/smart-start-guides/bg/articles/visiting-rome/"/>
+  </url>
+  <url>
+    <loc>https://jchristov.github.io/smart-start-guides/de/articles/visiting-rome/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jchristov.github.io/smart-start-guides/en/articles/visiting-rome/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jchristov.github.io/smart-start-guides/de/articles/visiting-rome/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://jchristov.github.io/smart-start-guides/pl/articles/visiting-rome/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://jchristov.github.io/smart-start-guides/bg/articles/visiting-rome/"/>
+  </url>
+  <url>
+    <loc>https://jchristov.github.io/smart-start-guides/pl/articles/visiting-rome/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jchristov.github.io/smart-start-guides/en/articles/visiting-rome/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jchristov.github.io/smart-start-guides/de/articles/visiting-rome/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://jchristov.github.io/smart-start-guides/pl/articles/visiting-rome/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://jchristov.github.io/smart-start-guides/bg/articles/visiting-rome/"/>
+  </url>
+  <url>
+    <loc>https://jchristov.github.io/smart-start-guides/bg/articles/visiting-rome/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jchristov.github.io/smart-start-guides/en/articles/visiting-rome/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jchristov.github.io/smart-start-guides/de/articles/visiting-rome/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://jchristov.github.io/smart-start-guides/pl/articles/visiting-rome/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://jchristov.github.io/smart-start-guides/bg/articles/visiting-rome/"/>
+  </url>
+  <url>
+    <loc>https://jchristov.github.io/smart-start-guides/en/articles/moving-to-london/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jchristov.github.io/smart-start-guides/en/articles/moving-to-london/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jchristov.github.io/smart-start-guides/de/articles/moving-to-london/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://jchristov.github.io/smart-start-guides/pl/articles/moving-to-london/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://jchristov.github.io/smart-start-guides/bg/articles/moving-to-london/"/>
+  </url>
+  <url>
+    <loc>https://jchristov.github.io/smart-start-guides/de/articles/moving-to-london/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jchristov.github.io/smart-start-guides/en/articles/moving-to-london/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jchristov.github.io/smart-start-guides/de/articles/moving-to-london/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://jchristov.github.io/smart-start-guides/pl/articles/moving-to-london/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://jchristov.github.io/smart-start-guides/bg/articles/moving-to-london/"/>
+  </url>
+  <url>
+    <loc>https://jchristov.github.io/smart-start-guides/pl/articles/moving-to-london/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jchristov.github.io/smart-start-guides/en/articles/moving-to-london/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jchristov.github.io/smart-start-guides/de/articles/moving-to-london/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://jchristov.github.io/smart-start-guides/pl/articles/moving-to-london/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://jchristov.github.io/smart-start-guides/bg/articles/moving-to-london/"/>
+  </url>
+  <url>
+    <loc>https://jchristov.github.io/smart-start-guides/bg/articles/moving-to-london/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jchristov.github.io/smart-start-guides/en/articles/moving-to-london/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jchristov.github.io/smart-start-guides/de/articles/moving-to-london/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://jchristov.github.io/smart-start-guides/pl/articles/moving-to-london/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://jchristov.github.io/smart-start-guides/bg/articles/moving-to-london/"/>
+  </url>
+  <url>
+    <loc>https://jchristov.github.io/smart-start-guides/en/articles/visiting-london/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jchristov.github.io/smart-start-guides/en/articles/visiting-london/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jchristov.github.io/smart-start-guides/de/articles/visiting-london/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://jchristov.github.io/smart-start-guides/pl/articles/visiting-london/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://jchristov.github.io/smart-start-guides/bg/articles/visiting-london/"/>
+  </url>
+  <url>
+    <loc>https://jchristov.github.io/smart-start-guides/de/articles/visiting-london/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jchristov.github.io/smart-start-guides/en/articles/visiting-london/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jchristov.github.io/smart-start-guides/de/articles/visiting-london/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://jchristov.github.io/smart-start-guides/pl/articles/visiting-london/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://jchristov.github.io/smart-start-guides/bg/articles/visiting-london/"/>
+  </url>
+  <url>
+    <loc>https://jchristov.github.io/smart-start-guides/pl/articles/visiting-london/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jchristov.github.io/smart-start-guides/en/articles/visiting-london/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jchristov.github.io/smart-start-guides/de/articles/visiting-london/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://jchristov.github.io/smart-start-guides/pl/articles/visiting-london/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://jchristov.github.io/smart-start-guides/bg/articles/visiting-london/"/>
+  </url>
+  <url>
+    <loc>https://jchristov.github.io/smart-start-guides/bg/articles/visiting-london/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jchristov.github.io/smart-start-guides/en/articles/visiting-london/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jchristov.github.io/smart-start-guides/de/articles/visiting-london/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://jchristov.github.io/smart-start-guides/pl/articles/visiting-london/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://jchristov.github.io/smart-start-guides/bg/articles/visiting-london/"/>
+  </url>
+  <url>
+    <loc>https://jchristov.github.io/smart-start-guides/en/articles/moving-to-sofia/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jchristov.github.io/smart-start-guides/en/articles/moving-to-sofia/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jchristov.github.io/smart-start-guides/de/articles/moving-to-sofia/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://jchristov.github.io/smart-start-guides/pl/articles/moving-to-sofia/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://jchristov.github.io/smart-start-guides/bg/articles/moving-to-sofia/"/>
+  </url>
+  <url>
+    <loc>https://jchristov.github.io/smart-start-guides/de/articles/moving-to-sofia/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jchristov.github.io/smart-start-guides/en/articles/moving-to-sofia/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jchristov.github.io/smart-start-guides/de/articles/moving-to-sofia/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://jchristov.github.io/smart-start-guides/pl/articles/moving-to-sofia/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://jchristov.github.io/smart-start-guides/bg/articles/moving-to-sofia/"/>
+  </url>
+  <url>
+    <loc>https://jchristov.github.io/smart-start-guides/pl/articles/moving-to-sofia/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jchristov.github.io/smart-start-guides/en/articles/moving-to-sofia/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jchristov.github.io/smart-start-guides/de/articles/moving-to-sofia/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://jchristov.github.io/smart-start-guides/pl/articles/moving-to-sofia/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://jchristov.github.io/smart-start-guides/bg/articles/moving-to-sofia/"/>
+  </url>
+  <url>
+    <loc>https://jchristov.github.io/smart-start-guides/bg/articles/moving-to-sofia/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jchristov.github.io/smart-start-guides/en/articles/moving-to-sofia/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jchristov.github.io/smart-start-guides/de/articles/moving-to-sofia/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://jchristov.github.io/smart-start-guides/pl/articles/moving-to-sofia/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://jchristov.github.io/smart-start-guides/bg/articles/moving-to-sofia/"/>
+  </url>
+  <url>
+    <loc>https://jchristov.github.io/smart-start-guides/en/articles/visiting-sofia/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jchristov.github.io/smart-start-guides/en/articles/visiting-sofia/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jchristov.github.io/smart-start-guides/de/articles/visiting-sofia/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://jchristov.github.io/smart-start-guides/pl/articles/visiting-sofia/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://jchristov.github.io/smart-start-guides/bg/articles/visiting-sofia/"/>
+  </url>
+  <url>
+    <loc>https://jchristov.github.io/smart-start-guides/de/articles/visiting-sofia/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jchristov.github.io/smart-start-guides/en/articles/visiting-sofia/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jchristov.github.io/smart-start-guides/de/articles/visiting-sofia/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://jchristov.github.io/smart-start-guides/pl/articles/visiting-sofia/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://jchristov.github.io/smart-start-guides/bg/articles/visiting-sofia/"/>
+  </url>
+  <url>
+    <loc>https://jchristov.github.io/smart-start-guides/pl/articles/visiting-sofia/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jchristov.github.io/smart-start-guides/en/articles/visiting-sofia/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jchristov.github.io/smart-start-guides/de/articles/visiting-sofia/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://jchristov.github.io/smart-start-guides/pl/articles/visiting-sofia/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://jchristov.github.io/smart-start-guides/bg/articles/visiting-sofia/"/>
+  </url>
+  <url>
+    <loc>https://jchristov.github.io/smart-start-guides/bg/articles/visiting-sofia/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jchristov.github.io/smart-start-guides/en/articles/visiting-sofia/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jchristov.github.io/smart-start-guides/de/articles/visiting-sofia/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://jchristov.github.io/smart-start-guides/pl/articles/visiting-sofia/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://jchristov.github.io/smart-start-guides/bg/articles/visiting-sofia/"/>
   </url>
 </urlset>
