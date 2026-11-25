@@ -1,0 +1,68 @@
+name: Weekly SEO & IndexNow Autopromote
+
+on:
+  schedule:
+    - cron: "0 8 * * 1" # Every Monday at 08:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh-and-ping:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Rotate weekly RSS spotlight & refresh sitemap dates
+        run: |
+          node -e '
+            const fs = require("fs");
+            const today = new Date().toISOString().slice(0, 10);
+            const rfc = new Date().toUTCString();
+            const sm = fs.readFileSync("sitemap.xml", "utf8").replace(/<lastmod>[^<]+<\/lastmod>/g, "<lastmod>" + today + "</lastmod>");
+            fs.writeFileSync("sitemap.xml", sm);
+            for (const f of ["feed.xml", "feed-en.xml", "feed-de.xml", "feed-pl.xml", "feed-bg.xml"]) {
+              if (!fs.existsSync(f)) continue;
+              let xml = fs.readFileSync(f, "utf8");
+              xml = xml.replace(/<lastBuildDate>[^<]+<\/lastBuildDate>/, "<lastBuildDate>" + rfc + "</lastBuildDate>");
+              // Rotate first <item> to end so RSS readers/Pinterest see a fresh weekly top item
+              const items = xml.match(/    <item>[\s\S]*?<\/item>/g);
+              if (items && items.length > 2) {
+                const moved = items.shift();
+                const updated = moved.replace(/<pubDate>[^<]+<\/pubDate>/, "<pubDate>" + rfc + "</pubDate>");
+                items.push(updated);
+                const head = xml.slice(0, xml.indexOf("    <item>"));
+                const tail = xml.slice(xml.lastIndexOf("</item>") + 7);
+                xml = head + items.join("\n") + tail;
+              }
+              fs.writeFileSync(f, xml);
+            }
+          '
+
+      - name: Commit refreshed feeds & sitemap
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add sitemap.xml feed*.xml
+          git diff --cached --quiet || git commit -m "chore: weekly RSS spotlight & sitemap refresh"
+          git push
+
+      - name: Ping IndexNow (Bing / DuckDuckGo / Yandex / ChatGPT Search)
+        run: |
+          node -e '
+            const fs = require("fs");
+            const sm = fs.readFileSync("sitemap.xml", "utf8");
+            const urlList = [...sm.matchAll(/<loc>([^<]+)<\/loc>/g)].map(m => m[1]);
+            const body = {
+              host: "jchristov.github.io",
+              key: "d1e545929f8255a5d5b6ec796031d96f",
+              keyLocation: "https://jchristov.github.io/smart-start-guides/d1e545929f8255a5d5b6ec796031d96f.txt",
+              urlList
+            };
+            fetch("https://api.indexnow.org/indexnow", {
+              method: "POST",
+              headers: { "Content-Type": "application/json; charset=utf-8" },
+              body: JSON.stringify(body)
+            }).then(r => console.log("IndexNow status:", r.status)).catch(e => console.error(e));
+          '

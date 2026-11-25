@@ -1,0 +1,802 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Smart Start City Guides — All Languages</title>
+    <link>https://jchristov.github.io/smart-start-guides/</link>
+    <atom:link href="https://jchristov.github.io/smart-start-guides/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>Practical, print-ready A4 PDF guides for relocating to and exploring 11 European cities. Free 10-page starter guide for every city in English, German, Polish, and Bulgarian.</description>
+    <lastBuildDate>Wed, 25 Nov 2026 18:08:47 GMT</lastBuildDate>
+    <item>
+      <title>A New Chapter in Barcelona – Expat Guide — Free 10-Page PDF</title>
+      <link>https://smartstartpub.gumroad.com/l/barcelona-expat-en-free?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=barcelona-expat-en</link>
+      <guid isPermaLink="true">https://jchristov.github.io/smart-start-guides/en/barcelona-expat/</guid>
+      <pubDate>Wed, 25 Nov 2026 18:08:47 GMT</pubDate>
+      <description>A practical guide for newcomers to Barcelona (59 pages, October 2026). Free 10-page starter PDF available.</description>
+      <enclosure url="https://jchristov.github.io/smart-start-guides/covers/barcelona-expat-en-full.jpg" type="image/jpeg" length="24000"/>
+      <media:content url="https://jchristov.github.io/smart-start-guides/covers/barcelona-expat-en-full.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Ein neues Kapitel in Barcelona – Expat-Guide — Free 10-Page PDF</title>
+      <link>https://smartstartpub.gumroad.com/l/barcelona-expat-de-free?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=barcelona-expat-de</link>
+      <guid isPermaLink="true">https://jchristov.github.io/smart-start-guides/de/barcelona-expat/</guid>
+      <pubDate>Wed, 25 Nov 2026 18:08:47 GMT</pubDate>
+      <description>Ein praktischer Leitfaden für Neuankömmlinge in Barcelona (59 pages, Oktober 2026). Free 10-page starter PDF available.</description>
+      <enclosure url="https://jchristov.github.io/smart-start-guides/covers/barcelona-expat-de-full.jpg" type="image/jpeg" length="24000"/>
+      <media:content url="https://jchristov.github.io/smart-start-guides/covers/barcelona-expat-de-full.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Nowy rozdział w Barcelonie – Przewodnik dla przyjezdnych — Free 10-Page PDF</title>
+      <link>https://smartstartpub.gumroad.com/l/barcelona-expat-pl-free?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=barcelona-expat-pl</link>
+      <guid isPermaLink="true">https://jchristov.github.io/smart-start-guides/pl/barcelona-expat/</guid>
+      <pubDate>Wed, 25 Nov 2026 18:08:47 GMT</pubDate>
+      <description>Praktyczny przewodnik dla osób przyjeżdżających do Barcelony (59 pages, Październik 2026). Free 10-page starter PDF available.</description>
+      <enclosure url="https://jchristov.github.io/smart-start-guides/covers/barcelona-expat-pl-full.jpg" type="image/jpeg" length="24000"/>
+      <media:content url="https://jchristov.github.io/smart-start-guides/covers/barcelona-expat-pl-full.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Нова глава в Барселона – Наръчник за новодошли — Free 10-Page PDF</title>
+      <link>https://smartstartpub.gumroad.com/l/barcelona-expat-bg-free?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=barcelona-expat-bg</link>
+      <guid isPermaLink="true">https://jchristov.github.io/smart-start-guides/bg/barcelona-expat/</guid>
+      <pubDate>Wed, 25 Nov 2026 18:08:47 GMT</pubDate>
+      <description>Практически наръчник за новодошлите в Барселона (59 pages, Октомври 2026). Free 10-page starter PDF available.</description>
+      <enclosure url="https://jchristov.github.io/smart-start-guides/covers/barcelona-expat-bg-full.jpg" type="image/jpeg" length="24000"/>
+      <media:content url="https://jchristov.github.io/smart-start-guides/covers/barcelona-expat-bg-full.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Discover Barcelona – Travel Guide — Free 10-Page PDF</title>
+      <link>https://smartstartpub.gumroad.com/l/barcelona-travel-en-free?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=barcelona-travel-en</link>
+      <guid isPermaLink="true">https://jchristov.github.io/smart-start-guides/en/barcelona-travel/</guid>
+      <pubDate>Wed, 25 Nov 2026 18:08:47 GMT</pubDate>
+      <description>A practical guide for visitors to Barcelona (71 pages, October 2026). Free 10-page starter PDF available.</description>
+      <enclosure url="https://jchristov.github.io/smart-start-guides/covers/barcelona-travel-en-full.jpg" type="image/jpeg" length="24000"/>
+      <media:content url="https://jchristov.github.io/smart-start-guides/covers/barcelona-travel-en-full.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Barcelona entdecken – Reiseführer — Free 10-Page PDF</title>
+      <link>https://smartstartpub.gumroad.com/l/barcelona-travel-de-free?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=barcelona-travel-de</link>
+      <guid isPermaLink="true">https://jchristov.github.io/smart-start-guides/de/barcelona-travel/</guid>
+      <pubDate>Wed, 25 Nov 2026 18:08:47 GMT</pubDate>
+      <description>Ein praktischer Reiseführer für Besucher Barcelonas (71 pages, Oktober 2026). Free 10-page starter PDF available.</description>
+      <enclosure url="https://jchristov.github.io/smart-start-guides/covers/barcelona-travel-de-full.jpg" type="image/jpeg" length="24000"/>
+      <media:content url="https://jchristov.github.io/smart-start-guides/covers/barcelona-travel-de-full.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Odkryj Barcelonę – Przewodnik turystyczny — Free 10-Page PDF</title>
+      <link>https://smartstartpub.gumroad.com/l/barcelona-travel-pl-free?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=barcelona-travel-pl</link>
+      <guid isPermaLink="true">https://jchristov.github.io/smart-start-guides/pl/barcelona-travel/</guid>
+      <pubDate>Wed, 25 Nov 2026 18:08:47 GMT</pubDate>
+      <description>Praktyczny przewodnik dla odwiedzających Barcelonę (71 pages, Październik 2026). Free 10-page starter PDF available.</description>
+      <enclosure url="https://jchristov.github.io/smart-start-guides/covers/barcelona-travel-pl-full.jpg" type="image/jpeg" length="24000"/>
+      <media:content url="https://jchristov.github.io/smart-start-guides/covers/barcelona-travel-pl-full.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Открийте Барселона – Пътеводител — Free 10-Page PDF</title>
+      <link>https://smartstartpub.gumroad.com/l/barcelona-travel-bg-free?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=barcelona-travel-bg</link>
+      <guid isPermaLink="true">https://jchristov.github.io/smart-start-guides/bg/barcelona-travel/</guid>
+      <pubDate>Wed, 25 Nov 2026 18:08:47 GMT</pubDate>
+      <description>Практически пътеводител за посетителите на Барселона (71 pages, Октомври 2026). Free 10-page starter PDF available.</description>
+      <enclosure url="https://jchristov.github.io/smart-start-guides/covers/barcelona-travel-bg-full.jpg" type="image/jpeg" length="24000"/>
+      <media:content url="https://jchristov.github.io/smart-start-guides/covers/barcelona-travel-bg-full.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>A New Chapter in Berlin – Expat Guide — Free 10-Page PDF</title>
+      <link>https://smartstartpub.gumroad.com/l/berlin-expat-en-free?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=berlin-expat-en</link>
+      <guid isPermaLink="true">https://jchristov.github.io/smart-start-guides/en/berlin-expat/</guid>
+      <pubDate>Wed, 25 Nov 2026 18:08:47 GMT</pubDate>
+      <description>A practical guide for newcomers to Berlin (58 pages, October 2026). Free 10-page starter PDF available.</description>
+      <enclosure url="https://jchristov.github.io/smart-start-guides/covers/berlin-expat-en-full.jpg" type="image/jpeg" length="24000"/>
+      <media:content url="https://jchristov.github.io/smart-start-guides/covers/berlin-expat-en-full.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Ein neues Kapitel in Berlin – Expat-Guide — Free 10-Page PDF</title>
+      <link>https://smartstartpub.gumroad.com/l/berlin-expat-de-free?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=berlin-expat-de</link>
+      <guid isPermaLink="true">https://jchristov.github.io/smart-start-guides/de/berlin-expat/</guid>
+      <pubDate>Wed, 25 Nov 2026 18:08:47 GMT</pubDate>
+      <description>Ein praktischer Leitfaden für Neuankömmlinge in Berlin (58 pages, Oktober 2026). Free 10-page starter PDF available.</description>
+      <enclosure url="https://jchristov.github.io/smart-start-guides/covers/berlin-expat-de-full.jpg" type="image/jpeg" length="24000"/>
+      <media:content url="https://jchristov.github.io/smart-start-guides/covers/berlin-expat-de-full.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Nowy rozdział w Berlinie – Przewodnik dla przyjezdnych — Free 10-Page PDF</title>
+      <link>https://smartstartpub.gumroad.com/l/berlin-expat-pl-free?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=berlin-expat-pl</link>
+      <guid isPermaLink="true">https://jchristov.github.io/smart-start-guides/pl/berlin-expat/</guid>
+      <pubDate>Wed, 25 Nov 2026 18:08:47 GMT</pubDate>
+      <description>Praktyczny przewodnik dla osób przyjeżdżających do Berlina (58 pages, Październik 2026). Free 10-page starter PDF available.</description>
+      <enclosure url="https://jchristov.github.io/smart-start-guides/covers/berlin-expat-pl-full.jpg" type="image/jpeg" length="24000"/>
+      <media:content url="https://jchristov.github.io/smart-start-guides/covers/berlin-expat-pl-full.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Нова глава в Берлин – Наръчник за новодошли — Free 10-Page PDF</title>
+      <link>https://smartstartpub.gumroad.com/l/berlin-expat-bg-free?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=berlin-expat-bg</link>
+      <guid isPermaLink="true">https://jchristov.github.io/smart-start-guides/bg/berlin-expat/</guid>
+      <pubDate>Wed, 25 Nov 2026 18:08:47 GMT</pubDate>
+      <description>Практически наръчник за новодошлите в Берлин (58 pages, Октомври 2026). Free 10-page starter PDF available.</description>
+      <enclosure url="https://jchristov.github.io/smart-start-guides/covers/berlin-expat-bg-full.jpg" type="image/jpeg" length="24000"/>
+      <media:content url="https://jchristov.github.io/smart-start-guides/covers/berlin-expat-bg-full.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Discover Berlin – Travel Guide — Free 10-Page PDF</title>
+      <link>https://smartstartpub.gumroad.com/l/berlin-travel-en-free?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=berlin-travel-en</link>
+      <guid isPermaLink="true">https://jchristov.github.io/smart-start-guides/en/berlin-travel/</guid>
+      <pubDate>Wed, 25 Nov 2026 18:08:47 GMT</pubDate>
+      <description>A practical guide for visitors to Berlin (73 pages, October 2026). Free 10-page starter PDF available.</description>
+      <enclosure url="https://jchristov.github.io/smart-start-guides/covers/berlin-travel-en-full.jpg" type="image/jpeg" length="24000"/>
+      <media:content url="https://jchristov.github.io/smart-start-guides/covers/berlin-travel-en-full.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Berlin entdecken – Reiseführer — Free 10-Page PDF</title>
+      <link>https://smartstartpub.gumroad.com/l/berlin-travel-de-free?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=berlin-travel-de</link>
+      <guid isPermaLink="true">https://jchristov.github.io/smart-start-guides/de/berlin-travel/</guid>
+      <pubDate>Wed, 25 Nov 2026 18:08:47 GMT</pubDate>
+      <description>Ein praktischer Reiseführer für Besucher Berlins (73 pages, Oktober 2026). Free 10-page starter PDF available.</description>
+      <enclosure url="https://jchristov.github.io/smart-start-guides/covers/berlin-travel-de-full.jpg" type="image/jpeg" length="24000"/>
+      <media:content url="https://jchristov.github.io/smart-start-guides/covers/berlin-travel-de-full.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Odkryj Berlin – Przewodnik turystyczny — Free 10-Page PDF</title>
+      <link>https://smartstartpub.gumroad.com/l/berlin-travel-pl-free?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=berlin-travel-pl</link>
+      <guid isPermaLink="true">https://jchristov.github.io/smart-start-guides/pl/berlin-travel/</guid>
+      <pubDate>Wed, 25 Nov 2026 18:08:47 GMT</pubDate>
+      <description>Praktyczny przewodnik dla odwiedzających Berlin (73 pages, Październik 2026). Free 10-page starter PDF available.</description>
+      <enclosure url="https://jchristov.github.io/smart-start-guides/covers/berlin-travel-pl-full.jpg" type="image/jpeg" length="24000"/>
+      <media:content url="https://jchristov.github.io/smart-start-guides/covers/berlin-travel-pl-full.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Открийте Берлин – Пътеводител — Free 10-Page PDF</title>
+      <link>https://smartstartpub.gumroad.com/l/berlin-travel-bg-free?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=berlin-travel-bg</link>
+      <guid isPermaLink="true">https://jchristov.github.io/smart-start-guides/bg/berlin-travel/</guid>
+      <pubDate>Wed, 25 Nov 2026 18:08:47 GMT</pubDate>
+      <description>Практически пътеводител за посетителите на Берлин (73 pages, Октомври 2026). Free 10-page starter PDF available.</description>
+      <enclosure url="https://jchristov.github.io/smart-start-guides/covers/berlin-travel-bg-full.jpg" type="image/jpeg" length="24000"/>
+      <media:content url="https://jchristov.github.io/smart-start-guides/covers/berlin-travel-bg-full.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>A New Chapter in Budapest – Expat Guide — Free 10-Page PDF</title>
+      <link>https://smartstartpub.gumroad.com/l/budapest-expat-en-free?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=budapest-expat-en</link>
+      <guid isPermaLink="true">https://jchristov.github.io/smart-start-guides/en/budapest-expat/</guid>
+      <pubDate>Wed, 25 Nov 2026 18:08:47 GMT</pubDate>
+      <description>A practical guide for newcomers to Budapest (66 pages, October 2026). Free 10-page starter PDF available.</description>
+      <enclosure url="https://jchristov.github.io/smart-start-guides/covers/budapest-expat-en-full.jpg" type="image/jpeg" length="24000"/>
+      <media:content url="https://jchristov.github.io/smart-start-guides/covers/budapest-expat-en-full.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Ein neues Kapitel in Budapest – Expat-Guide — Free 10-Page PDF</title>
+      <link>https://smartstartpub.gumroad.com/l/budapest-expat-de-free?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=budapest-expat-de</link>
+      <guid isPermaLink="true">https://jchristov.github.io/smart-start-guides/de/budapest-expat/</guid>
+      <pubDate>Wed, 25 Nov 2026 18:08:47 GMT</pubDate>
+      <description>Ein praktischer Leitfaden für Neuankömmlinge in Budapest (68 pages, Oktober 2026). Free 10-page starter PDF available.</description>
+      <enclosure url="https://jchristov.github.io/smart-start-guides/covers/budapest-expat-de-full.jpg" type="image/jpeg" length="24000"/>
+      <media:content url="https://jchristov.github.io/smart-start-guides/covers/budapest-expat-de-full.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Nowy rozdział w Budapeszcie – Przewodnik dla przyjezdnych — Free 10-Page PDF</title>
+      <link>https://smartstartpub.gumroad.com/l/budapest-expat-pl-free?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=budapest-expat-pl</link>
+      <guid isPermaLink="true">https://jchristov.github.io/smart-start-guides/pl/budapest-expat/</guid>
+      <pubDate>Wed, 25 Nov 2026 18:08:47 GMT</pubDate>
+      <description>Praktyczny przewodnik dla osób przyjeżdżających do Budapesztu (66 pages, Październik 2026). Free 10-page starter PDF available.</description>
+      <enclosure url="https://jchristov.github.io/smart-start-guides/covers/budapest-expat-pl-full.jpg" type="image/jpeg" length="24000"/>
+      <media:content url="https://jchristov.github.io/smart-start-guides/covers/budapest-expat-pl-full.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Нова глава в Будапеща – Наръчник за новодошли — Free 10-Page PDF</title>
+      <link>https://smartstartpub.gumroad.com/l/budapest-expat-bg-free?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=budapest-expat-bg</link>
+      <guid isPermaLink="true">https://jchristov.github.io/smart-start-guides/bg/budapest-expat/</guid>
+      <pubDate>Wed, 25 Nov 2026 18:08:47 GMT</pubDate>
+      <description>Практически наръчник за новодошлите в Будапеща (69 pages, Октомври 2026). Free 10-page starter PDF available.</description>
+      <enclosure url="https://jchristov.github.io/smart-start-guides/covers/budapest-expat-bg-full.jpg" type="image/jpeg" length="24000"/>
+      <media:content url="https://jchristov.github.io/smart-start-guides/covers/budapest-expat-bg-full.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Discover Budapest – Travel Guide — Free 10-Page PDF</title>
+      <link>https://smartstartpub.gumroad.com/l/budapest-travel-en-free?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=budapest-travel-en</link>
+      <guid isPermaLink="true">https://jchristov.github.io/smart-start-guides/en/budapest-travel/</guid>
+      <pubDate>Wed, 25 Nov 2026 18:08:47 GMT</pubDate>
+      <description>A practical guide for visitors to Budapest (70 pages, October 2026). Free 10-page starter PDF available.</description>
+      <enclosure url="https://jchristov.github.io/smart-start-guides/covers/budapest-travel-en-full.jpg" type="image/jpeg" length="24000"/>
+      <media:content url="https://jchristov.github.io/smart-start-guides/covers/budapest-travel-en-full.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Budapest entdecken – Reiseführer — Free 10-Page PDF</title>
+      <link>https://smartstartpub.gumroad.com/l/budapest-travel-de-free?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=budapest-travel-de</link>
+      <guid isPermaLink="true">https://jchristov.github.io/smart-start-guides/de/budapest-travel/</guid>
+      <pubDate>Wed, 25 Nov 2026 18:08:47 GMT</pubDate>
+      <description>Ein praktischer Reiseführer für Besucher Budapests (70 pages, Oktober 2026). Free 10-page starter PDF available.</description>
+      <enclosure url="https://jchristov.github.io/smart-start-guides/covers/budapest-travel-de-full.jpg" type="image/jpeg" length="24000"/>
+      <media:content url="https://jchristov.github.io/smart-start-guides/covers/budapest-travel-de-full.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Odkryj Budapeszt – Przewodnik turystyczny — Free 10-Page PDF</title>
+      <link>https://smartstartpub.gumroad.com/l/budapest-travel-pl-free?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=budapest-travel-pl</link>
+      <guid isPermaLink="true">https://jchristov.github.io/smart-start-guides/pl/budapest-travel/</guid>
+      <pubDate>Wed, 25 Nov 2026 18:08:47 GMT</pubDate>
+      <description>Praktyczny przewodnik dla odwiedzających Budapeszt (70 pages, Październik 2026). Free 10-page starter PDF available.</description>
+      <enclosure url="https://jchristov.github.io/smart-start-guides/covers/budapest-travel-pl-full.jpg" type="image/jpeg" length="24000"/>
+      <media:content url="https://jchristov.github.io/smart-start-guides/covers/budapest-travel-pl-full.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Открийте Будапеща – Пътеводител — Free 10-Page PDF</title>
+      <link>https://smartstartpub.gumroad.com/l/budapest-travel-bg-free?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=budapest-travel-bg</link>
+      <guid isPermaLink="true">https://jchristov.github.io/smart-start-guides/bg/budapest-travel/</guid>
+      <pubDate>Wed, 25 Nov 2026 18:08:47 GMT</pubDate>
+      <description>Практически пътеводител за посетителите на Будапеща (70 pages, Октомври 2026). Free 10-page starter PDF available.</description>
+      <enclosure url="https://jchristov.github.io/smart-start-guides/covers/budapest-travel-bg-full.jpg" type="image/jpeg" length="24000"/>
+      <media:content url="https://jchristov.github.io/smart-start-guides/covers/budapest-travel-bg-full.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>A New Chapter in London – Expat Guide — Free 10-Page PDF</title>
+      <link>https://smartstartpub.gumroad.com/l/london-expat-en-free?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=london-expat-en</link>
+      <guid isPermaLink="true">https://jchristov.github.io/smart-start-guides/en/london-expat/</guid>
+      <pubDate>Wed, 25 Nov 2026 18:08:47 GMT</pubDate>
+      <description>A practical guide for newcomers to London (64 pages, October 2026). Free 10-page starter PDF available.</description>
+      <enclosure url="https://jchristov.github.io/smart-start-guides/covers/london-expat-en-full.jpg" type="image/jpeg" length="24000"/>
+      <media:content url="https://jchristov.github.io/smart-start-guides/covers/london-expat-en-full.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Ein neues Kapitel in London – Expat-Guide — Free 10-Page PDF</title>
+      <link>https://smartstartpub.gumroad.com/l/london-expat-de-free?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=london-expat-de</link>
+      <guid isPermaLink="true">https://jchristov.github.io/smart-start-guides/de/london-expat/</guid>
+      <pubDate>Wed, 25 Nov 2026 18:08:47 GMT</pubDate>
+      <description>Ein praktischer Leitfaden für Neuankömmlinge in London (64 pages, Oktober 2026). Free 10-page starter PDF available.</description>
+      <enclosure url="https://jchristov.github.io/smart-start-guides/covers/london-expat-de-full.jpg" type="image/jpeg" length="24000"/>
+      <media:content url="https://jchristov.github.io/smart-start-guides/covers/london-expat-de-full.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Nowy rozdział w Londynie – Przewodnik dla przyjezdnych — Free 10-Page PDF</title>
+      <link>https://smartstartpub.gumroad.com/l/london-expat-pl-free?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=london-expat-pl</link>
+      <guid isPermaLink="true">https://jchristov.github.io/smart-start-guides/pl/london-expat/</guid>
+      <pubDate>Wed, 25 Nov 2026 18:08:47 GMT</pubDate>
+      <description>Praktyczny przewodnik dla osób przyjeżdżających do Londynu (64 pages, Październik 2026). Free 10-page starter PDF available.</description>
+      <enclosure url="https://jchristov.github.io/smart-start-guides/covers/london-expat-pl-full.jpg" type="image/jpeg" length="24000"/>
+      <media:content url="https://jchristov.github.io/smart-start-guides/covers/london-expat-pl-full.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Нова глава в Лондон – Наръчник за новодошли — Free 10-Page PDF</title>
+      <link>https://smartstartpub.gumroad.com/l/london-expat-bg-free?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=london-expat-bg</link>
+      <guid isPermaLink="true">https://jchristov.github.io/smart-start-guides/bg/london-expat/</guid>
+      <pubDate>Wed, 25 Nov 2026 18:08:47 GMT</pubDate>
+      <description>Практически наръчник за новодошлите в Лондон (64 pages, Октомври 2026). Free 10-page starter PDF available.</description>
+      <enclosure url="https://jchristov.github.io/smart-start-guides/covers/london-expat-bg-full.jpg" type="image/jpeg" length="24000"/>
+      <media:content url="https://jchristov.github.io/smart-start-guides/covers/london-expat-bg-full.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Discover London – Travel Guide — Free 10-Page PDF</title>
+      <link>https://smartstartpub.gumroad.com/l/london-travel-en-free?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=london-travel-en</link>
+      <guid isPermaLink="true">https://jchristov.github.io/smart-start-guides/en/london-travel/</guid>
+      <pubDate>Wed, 25 Nov 2026 18:08:47 GMT</pubDate>
+      <description>A practical guide for visitors to London (73 pages, October 2026). Free 10-page starter PDF available.</description>
+      <enclosure url="https://jchristov.github.io/smart-start-guides/covers/london-travel-en-full.jpg" type="image/jpeg" length="24000"/>
+      <media:content url="https://jchristov.github.io/smart-start-guides/covers/london-travel-en-full.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>London entdecken – Reiseführer — Free 10-Page PDF</title>
+      <link>https://smartstartpub.gumroad.com/l/london-travel-de-free?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=london-travel-de</link>
+      <guid isPermaLink="true">https://jchristov.github.io/smart-start-guides/de/london-travel/</guid>
+      <pubDate>Wed, 25 Nov 2026 18:08:47 GMT</pubDate>
+      <description>Ein praktischer Reiseführer für Besucher Londons (73 pages, Oktober 2026). Free 10-page starter PDF available.</description>
+      <enclosure url="https://jchristov.github.io/smart-start-guides/covers/london-travel-de-full.jpg" type="image/jpeg" length="24000"/>
+      <media:content url="https://jchristov.github.io/smart-start-guides/covers/london-travel-de-full.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Odkryj Londyn – Przewodnik turystyczny — Free 10-Page PDF</title>
+      <link>https://smartstartpub.gumroad.com/l/london-travel-pl-free?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=london-travel-pl</link>
+      <guid isPermaLink="true">https://jchristov.github.io/smart-start-guides/pl/london-travel/</guid>
+      <pubDate>Wed, 25 Nov 2026 18:08:47 GMT</pubDate>
+      <description>Praktyczny przewodnik dla odwiedzających Londyn (73 pages, Październik 2026). Free 10-page starter PDF available.</description>
+      <enclosure url="https://jchristov.github.io/smart-start-guides/covers/london-travel-pl-full.jpg" type="image/jpeg" length="24000"/>
+      <media:content url="https://jchristov.github.io/smart-start-guides/covers/london-travel-pl-full.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Открийте Лондон – Пътеводител — Free 10-Page PDF</title>
+      <link>https://smartstartpub.gumroad.com/l/london-travel-bg-free?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=london-travel-bg</link>
+      <guid isPermaLink="true">https://jchristov.github.io/smart-start-guides/bg/london-travel/</guid>
+      <pubDate>Wed, 25 Nov 2026 18:08:47 GMT</pubDate>
+      <description>Практически пътеводител за посетителите на Лондон (73 pages, Октомври 2026). Free 10-page starter PDF available.</description>
+      <enclosure url="https://jchristov.github.io/smart-start-guides/covers/london-travel-bg-full.jpg" type="image/jpeg" length="24000"/>
+      <media:content url="https://jchristov.github.io/smart-start-guides/covers/london-travel-bg-full.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>A New Chapter in Madrid – Expat Guide — Free 10-Page PDF</title>
+      <link>https://smartstartpub.gumroad.com/l/madrid-expat-en-free?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=madrid-expat-en</link>
+      <guid isPermaLink="true">https://jchristov.github.io/smart-start-guides/en/madrid-expat/</guid>
+      <pubDate>Wed, 25 Nov 2026 18:08:47 GMT</pubDate>
+      <description>A practical guide for newcomers to Madrid (67 pages, October 2026). Free 10-page starter PDF available.</description>
+      <enclosure url="https://jchristov.github.io/smart-start-guides/covers/madrid-expat-en-full.jpg" type="image/jpeg" length="24000"/>
+      <media:content url="https://jchristov.github.io/smart-start-guides/covers/madrid-expat-en-full.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Ein neues Kapitel in Madrid – Expat-Guide — Free 10-Page PDF</title>
+      <link>https://smartstartpub.gumroad.com/l/madrid-expat-de-free?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=madrid-expat-de</link>
+      <guid isPermaLink="true">https://jchristov.github.io/smart-start-guides/de/madrid-expat/</guid>
+      <pubDate>Wed, 25 Nov 2026 18:08:47 GMT</pubDate>
+      <description>Ein praktischer Leitfaden für Neuankömmlinge in Madrid (69 pages, Oktober 2026). Free 10-page starter PDF available.</description>
+      <enclosure url="https://jchristov.github.io/smart-start-guides/covers/madrid-expat-de-full.jpg" type="image/jpeg" length="24000"/>
+      <media:content url="https://jchristov.github.io/smart-start-guides/covers/madrid-expat-de-full.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Nowy rozdział w Madrycie – Przewodnik dla przyjezdnych — Free 10-Page PDF</title>
+      <link>https://smartstartpub.gumroad.com/l/madrid-expat-pl-free?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=madrid-expat-pl</link>
+      <guid isPermaLink="true">https://jchristov.github.io/smart-start-guides/pl/madrid-expat/</guid>
+      <pubDate>Wed, 25 Nov 2026 18:08:47 GMT</pubDate>
+      <description>Praktyczny przewodnik dla osób przyjeżdżających do Madrytu (67 pages, Październik 2026). Free 10-page starter PDF available.</description>
+      <enclosure url="https://jchristov.github.io/smart-start-guides/covers/madrid-expat-pl-full.jpg" type="image/jpeg" length="24000"/>
+      <media:content url="https://jchristov.github.io/smart-start-guides/covers/madrid-expat-pl-full.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Нова глава в Мадрид – Наръчник за новодошли — Free 10-Page PDF</title>
+      <link>https://smartstartpub.gumroad.com/l/madrid-expat-bg-free?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=madrid-expat-bg</link>
+      <guid isPermaLink="true">https://jchristov.github.io/smart-start-guides/bg/madrid-expat/</guid>
+      <pubDate>Wed, 25 Nov 2026 18:08:47 GMT</pubDate>
+      <description>Практически наръчник за новодошлите в Мадрид (71 pages, Октомври 2026). Free 10-page starter PDF available.</description>
+      <enclosure url="https://jchristov.github.io/smart-start-guides/covers/madrid-expat-bg-full.jpg" type="image/jpeg" length="24000"/>
+      <media:content url="https://jchristov.github.io/smart-start-guides/covers/madrid-expat-bg-full.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Discover Madrid – Travel Guide — Free 10-Page PDF</title>
+      <link>https://smartstartpub.gumroad.com/l/madrid-travel-en-free?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=madrid-travel-en</link>
+      <guid isPermaLink="true">https://jchristov.github.io/smart-start-guides/en/madrid-travel/</guid>
+      <pubDate>Wed, 25 Nov 2026 18:08:47 GMT</pubDate>
+      <description>A practical guide for visitors to Madrid (69 pages, October 2026). Free 10-page starter PDF available.</description>
+      <enclosure url="https://jchristov.github.io/smart-start-guides/covers/madrid-travel-en-full.jpg" type="image/jpeg" length="24000"/>
+      <media:content url="https://jchristov.github.io/smart-start-guides/covers/madrid-travel-en-full.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Madrid entdecken – Reiseführer — Free 10-Page PDF</title>
+      <link>https://smartstartpub.gumroad.com/l/madrid-travel-de-free?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=madrid-travel-de</link>
+      <guid isPermaLink="true">https://jchristov.github.io/smart-start-guides/de/madrid-travel/</guid>
+      <pubDate>Wed, 25 Nov 2026 18:08:47 GMT</pubDate>
+      <description>Ein praktischer Reiseführer für Besucher Madrids (70 pages, Oktober 2026). Free 10-page starter PDF available.</description>
+      <enclosure url="https://jchristov.github.io/smart-start-guides/covers/madrid-travel-de-full.jpg" type="image/jpeg" length="24000"/>
+      <media:content url="https://jchristov.github.io/smart-start-guides/covers/madrid-travel-de-full.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Odkryj Madryt – Przewodnik turystyczny — Free 10-Page PDF</title>
+      <link>https://smartstartpub.gumroad.com/l/madrid-travel-pl-free?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=madrid-travel-pl</link>
+      <guid isPermaLink="true">https://jchristov.github.io/smart-start-guides/pl/madrid-travel/</guid>
+      <pubDate>Wed, 25 Nov 2026 18:08:47 GMT</pubDate>
+      <description>Praktyczny przewodnik dla odwiedzających Madryt (69 pages, Październik 2026). Free 10-page starter PDF available.</description>
+      <enclosure url="https://jchristov.github.io/smart-start-guides/covers/madrid-travel-pl-full.jpg" type="image/jpeg" length="24000"/>
+      <media:content url="https://jchristov.github.io/smart-start-guides/covers/madrid-travel-pl-full.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Открийте Мадрид – Пътеводител — Free 10-Page PDF</title>
+      <link>https://smartstartpub.gumroad.com/l/madrid-travel-bg-free?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=madrid-travel-bg</link>
+      <guid isPermaLink="true">https://jchristov.github.io/smart-start-guides/bg/madrid-travel/</guid>
+      <pubDate>Wed, 25 Nov 2026 18:08:47 GMT</pubDate>
+      <description>Практически пътеводител за посетителите на Мадрид (70 pages, Октомври 2026). Free 10-page starter PDF available.</description>
+      <enclosure url="https://jchristov.github.io/smart-start-guides/covers/madrid-travel-bg-full.jpg" type="image/jpeg" length="24000"/>
+      <media:content url="https://jchristov.github.io/smart-start-guides/covers/madrid-travel-bg-full.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>A New Chapter in Paris – Expat Guide — Free 10-Page PDF</title>
+      <link>https://smartstartpub.gumroad.com/l/paris-expat-en-free?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=paris-expat-en</link>
+      <guid isPermaLink="true">https://jchristov.github.io/smart-start-guides/en/paris-expat/</guid>
+      <pubDate>Wed, 25 Nov 2026 18:08:47 GMT</pubDate>
+      <description>A practical guide for newcomers to Paris (64 pages, October 2026). Free 10-page starter PDF available.</description>
+      <enclosure url="https://jchristov.github.io/smart-start-guides/covers/paris-expat-en-full.jpg" type="image/jpeg" length="24000"/>
+      <media:content url="https://jchristov.github.io/smart-start-guides/covers/paris-expat-en-full.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Ein neues Kapitel in Paris – Expat-Guide — Free 10-Page PDF</title>
+      <link>https://smartstartpub.gumroad.com/l/paris-expat-de-free?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=paris-expat-de</link>
+      <guid isPermaLink="true">https://jchristov.github.io/smart-start-guides/de/paris-expat/</guid>
+      <pubDate>Wed, 25 Nov 2026 18:08:47 GMT</pubDate>
+      <description>Ein praktischer Leitfaden für Neuankömmlinge in Paris (67 pages, Oktober 2026). Free 10-page starter PDF available.</description>
+      <enclosure url="https://jchristov.github.io/smart-start-guides/covers/paris-expat-de-full.jpg" type="image/jpeg" length="24000"/>
+      <media:content url="https://jchristov.github.io/smart-start-guides/covers/paris-expat-de-full.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Nowy rozdział w Paryżu – Przewodnik dla przyjezdnych — Free 10-Page PDF</title>
+      <link>https://smartstartpub.gumroad.com/l/paris-expat-pl-free?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=paris-expat-pl</link>
+      <guid isPermaLink="true">https://jchristov.github.io/smart-start-guides/pl/paris-expat/</guid>
+      <pubDate>Wed, 25 Nov 2026 18:08:47 GMT</pubDate>
+      <description>Praktyczny przewodnik dla osób przyjeżdżających do Paryża (65 pages, Październik 2026). Free 10-page starter PDF available.</description>
+      <enclosure url="https://jchristov.github.io/smart-start-guides/covers/paris-expat-pl-full.jpg" type="image/jpeg" length="24000"/>
+      <media:content url="https://jchristov.github.io/smart-start-guides/covers/paris-expat-pl-full.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Нова глава в Париж – Наръчник за новодошли — Free 10-Page PDF</title>
+      <link>https://smartstartpub.gumroad.com/l/paris-expat-bg-free?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=paris-expat-bg</link>
+      <guid isPermaLink="true">https://jchristov.github.io/smart-start-guides/bg/paris-expat/</guid>
+      <pubDate>Wed, 25 Nov 2026 18:08:47 GMT</pubDate>
+      <description>Практически наръчник за новодошлите в Париж (68 pages, Октомври 2026). Free 10-page starter PDF available.</description>
+      <enclosure url="https://jchristov.github.io/smart-start-guides/covers/paris-expat-bg-full.jpg" type="image/jpeg" length="24000"/>
+      <media:content url="https://jchristov.github.io/smart-start-guides/covers/paris-expat-bg-full.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Discover Paris – Travel Guide — Free 10-Page PDF</title>
+      <link>https://smartstartpub.gumroad.com/l/paris-travel-en-free?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=paris-travel-en</link>
+      <guid isPermaLink="true">https://jchristov.github.io/smart-start-guides/en/paris-travel/</guid>
+      <pubDate>Wed, 25 Nov 2026 18:08:47 GMT</pubDate>
+      <description>A practical guide for visitors to Paris (76 pages, October 2026). Free 10-page starter PDF available.</description>
+      <enclosure url="https://jchristov.github.io/smart-start-guides/covers/paris-travel-en-full.jpg" type="image/jpeg" length="24000"/>
+      <media:content url="https://jchristov.github.io/smart-start-guides/covers/paris-travel-en-full.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Paris entdecken – Reiseführer — Free 10-Page PDF</title>
+      <link>https://smartstartpub.gumroad.com/l/paris-travel-de-free?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=paris-travel-de</link>
+      <guid isPermaLink="true">https://jchristov.github.io/smart-start-guides/de/paris-travel/</guid>
+      <pubDate>Wed, 25 Nov 2026 18:08:47 GMT</pubDate>
+      <description>Ein praktischer Reiseführer für Besucher von Paris (76 pages, Oktober 2026). Free 10-page starter PDF available.</description>
+      <enclosure url="https://jchristov.github.io/smart-start-guides/covers/paris-travel-de-full.jpg" type="image/jpeg" length="24000"/>
+      <media:content url="https://jchristov.github.io/smart-start-guides/covers/paris-travel-de-full.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Odkryj Paryż – Przewodnik turystyczny — Free 10-Page PDF</title>
+      <link>https://smartstartpub.gumroad.com/l/paris-travel-pl-free?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=paris-travel-pl</link>
+      <guid isPermaLink="true">https://jchristov.github.io/smart-start-guides/pl/paris-travel/</guid>
+      <pubDate>Wed, 25 Nov 2026 18:08:47 GMT</pubDate>
+      <description>Praktyczny przewodnik dla odwiedzających Paryż (76 pages, Październik 2026). Free 10-page starter PDF available.</description>
+      <enclosure url="https://jchristov.github.io/smart-start-guides/covers/paris-travel-pl-full.jpg" type="image/jpeg" length="24000"/>
+      <media:content url="https://jchristov.github.io/smart-start-guides/covers/paris-travel-pl-full.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Открийте Париж – Пътеводител — Free 10-Page PDF</title>
+      <link>https://smartstartpub.gumroad.com/l/paris-travel-bg-free?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=paris-travel-bg</link>
+      <guid isPermaLink="true">https://jchristov.github.io/smart-start-guides/bg/paris-travel/</guid>
+      <pubDate>Wed, 25 Nov 2026 18:08:47 GMT</pubDate>
+      <description>Практически пътеводител за посетителите на Париж (76 pages, Октомври 2026). Free 10-page starter PDF available.</description>
+      <enclosure url="https://jchristov.github.io/smart-start-guides/covers/paris-travel-bg-full.jpg" type="image/jpeg" length="24000"/>
+      <media:content url="https://jchristov.github.io/smart-start-guides/covers/paris-travel-bg-full.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>A New Chapter in Prague – Expat Guide — Free 10-Page PDF</title>
+      <link>https://smartstartpub.gumroad.com/l/prague-expat-en-free?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=prague-expat-en</link>
+      <guid isPermaLink="true">https://jchristov.github.io/smart-start-guides/en/prague-expat/</guid>
+      <pubDate>Wed, 25 Nov 2026 18:08:47 GMT</pubDate>
+      <description>A practical guide for newcomers to Prague (67 pages, October 2026). Free 10-page starter PDF available.</description>
+      <enclosure url="https://jchristov.github.io/smart-start-guides/covers/prague-expat-en-full.jpg" type="image/jpeg" length="24000"/>
+      <media:content url="https://jchristov.github.io/smart-start-guides/covers/prague-expat-en-full.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Ein neues Kapitel in Prag – Expat-Guide — Free 10-Page PDF</title>
+      <link>https://smartstartpub.gumroad.com/l/prague-expat-de-free?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=prague-expat-de</link>
+      <guid isPermaLink="true">https://jchristov.github.io/smart-start-guides/de/prague-expat/</guid>
+      <pubDate>Wed, 25 Nov 2026 18:08:47 GMT</pubDate>
+      <description>Ein praktischer Leitfaden für Neuankömmlinge in Prag (70 pages, Oktober 2026). Free 10-page starter PDF available.</description>
+      <enclosure url="https://jchristov.github.io/smart-start-guides/covers/prague-expat-de-full.jpg" type="image/jpeg" length="24000"/>
+      <media:content url="https://jchristov.github.io/smart-start-guides/covers/prague-expat-de-full.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Nowy rozdział w Pradze – Przewodnik dla przyjezdnych — Free 10-Page PDF</title>
+      <link>https://smartstartpub.gumroad.com/l/prague-expat-pl-free?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=prague-expat-pl</link>
+      <guid isPermaLink="true">https://jchristov.github.io/smart-start-guides/pl/prague-expat/</guid>
+      <pubDate>Wed, 25 Nov 2026 18:08:47 GMT</pubDate>
+      <description>Praktyczny przewodnik dla osób przyjeżdżających do Pragi (67 pages, Październik 2026). Free 10-page starter PDF available.</description>
+      <enclosure url="https://jchristov.github.io/smart-start-guides/covers/prague-expat-pl-full.jpg" type="image/jpeg" length="24000"/>
+      <media:content url="https://jchristov.github.io/smart-start-guides/covers/prague-expat-pl-full.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Нова глава в Прага – Наръчник за новодошли — Free 10-Page PDF</title>
+      <link>https://smartstartpub.gumroad.com/l/prague-expat-bg-free?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=prague-expat-bg</link>
+      <guid isPermaLink="true">https://jchristov.github.io/smart-start-guides/bg/prague-expat/</guid>
+      <pubDate>Wed, 25 Nov 2026 18:08:47 GMT</pubDate>
+      <description>Практически наръчник за новодошлите в Прага (70 pages, Октомври 2026). Free 10-page starter PDF available.</description>
+      <enclosure url="https://jchristov.github.io/smart-start-guides/covers/prague-expat-bg-full.jpg" type="image/jpeg" length="24000"/>
+      <media:content url="https://jchristov.github.io/smart-start-guides/covers/prague-expat-bg-full.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Discover Prague – Travel Guide — Free 10-Page PDF</title>
+      <link>https://smartstartpub.gumroad.com/l/prague-travel-en-free?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=prague-travel-en</link>
+      <guid isPermaLink="true">https://jchristov.github.io/smart-start-guides/en/prague-travel/</guid>
+      <pubDate>Wed, 25 Nov 2026 18:08:47 GMT</pubDate>
+      <description>A practical guide for visitors to Prague (66 pages, October 2026). Free 10-page starter PDF available.</description>
+      <enclosure url="https://jchristov.github.io/smart-start-guides/covers/prague-travel-en-full.jpg" type="image/jpeg" length="24000"/>
+      <media:content url="https://jchristov.github.io/smart-start-guides/covers/prague-travel-en-full.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Prag entdecken – Reiseführer — Free 10-Page PDF</title>
+      <link>https://smartstartpub.gumroad.com/l/prague-travel-de-free?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=prague-travel-de</link>
+      <guid isPermaLink="true">https://jchristov.github.io/smart-start-guides/de/prague-travel/</guid>
+      <pubDate>Wed, 25 Nov 2026 18:08:47 GMT</pubDate>
+      <description>Ein praktischer Reiseführer für Besucher Prags (67 pages, Oktober 2026). Free 10-page starter PDF available.</description>
+      <enclosure url="https://jchristov.github.io/smart-start-guides/covers/prague-travel-de-full.jpg" type="image/jpeg" length="24000"/>
+      <media:content url="https://jchristov.github.io/smart-start-guides/covers/prague-travel-de-full.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Odkryj Pragę – Przewodnik turystyczny — Free 10-Page PDF</title>
+      <link>https://smartstartpub.gumroad.com/l/prague-travel-pl-free?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=prague-travel-pl</link>
+      <guid isPermaLink="true">https://jchristov.github.io/smart-start-guides/pl/prague-travel/</guid>
+      <pubDate>Wed, 25 Nov 2026 18:08:47 GMT</pubDate>
+      <description>Praktyczny przewodnik dla odwiedzających Pragę (66 pages, Październik 2026). Free 10-page starter PDF available.</description>
+      <enclosure url="https://jchristov.github.io/smart-start-guides/covers/prague-travel-pl-full.jpg" type="image/jpeg" length="24000"/>
+      <media:content url="https://jchristov.github.io/smart-start-guides/covers/prague-travel-pl-full.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Открийте Прага – Пътеводител — Free 10-Page PDF</title>
+      <link>https://smartstartpub.gumroad.com/l/prague-travel-bg-free?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=prague-travel-bg</link>
+      <guid isPermaLink="true">https://jchristov.github.io/smart-start-guides/bg/prague-travel/</guid>
+      <pubDate>Wed, 25 Nov 2026 18:08:47 GMT</pubDate>
+      <description>Практически пътеводител за посетителите на Прага (67 pages, Октомври 2026). Free 10-page starter PDF available.</description>
+      <enclosure url="https://jchristov.github.io/smart-start-guides/covers/prague-travel-bg-full.jpg" type="image/jpeg" length="24000"/>
+      <media:content url="https://jchristov.github.io/smart-start-guides/covers/prague-travel-bg-full.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>A New Chapter in Rome – Expat Guide — Free 10-Page PDF</title>
+      <link>https://smartstartpub.gumroad.com/l/rome-expat-en-free?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rome-expat-en</link>
+      <guid isPermaLink="true">https://jchristov.github.io/smart-start-guides/en/rome-expat/</guid>
+      <pubDate>Wed, 25 Nov 2026 18:08:47 GMT</pubDate>
+      <description>A practical guide for newcomers to Rome (62 pages, October 2026). Free 10-page starter PDF available.</description>
+      <enclosure url="https://jchristov.github.io/smart-start-guides/covers/rome-expat-en-full.jpg" type="image/jpeg" length="24000"/>
+      <media:content url="https://jchristov.github.io/smart-start-guides/covers/rome-expat-en-full.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Ein neues Kapitel in Rom – Expat-Guide — Free 10-Page PDF</title>
+      <link>https://smartstartpub.gumroad.com/l/rome-expat-de-free?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rome-expat-de</link>
+      <guid isPermaLink="true">https://jchristov.github.io/smart-start-guides/de/rome-expat/</guid>
+      <pubDate>Wed, 25 Nov 2026 18:08:47 GMT</pubDate>
+      <description>Ein praktischer Leitfaden für Neuankömmlinge in Rom (62 pages, Oktober 2026). Free 10-page starter PDF available.</description>
+      <enclosure url="https://jchristov.github.io/smart-start-guides/covers/rome-expat-de-full.jpg" type="image/jpeg" length="24000"/>
+      <media:content url="https://jchristov.github.io/smart-start-guides/covers/rome-expat-de-full.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Nowy rozdział w Rzymie – Przewodnik dla przyjezdnych — Free 10-Page PDF</title>
+      <link>https://smartstartpub.gumroad.com/l/rome-expat-pl-free?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rome-expat-pl</link>
+      <guid isPermaLink="true">https://jchristov.github.io/smart-start-guides/pl/rome-expat/</guid>
+      <pubDate>Wed, 25 Nov 2026 18:08:47 GMT</pubDate>
+      <description>Praktyczny przewodnik dla osób przyjeżdżających do Rzymu (62 pages, Październik 2026). Free 10-page starter PDF available.</description>
+      <enclosure url="https://jchristov.github.io/smart-start-guides/covers/rome-expat-pl-full.jpg" type="image/jpeg" length="24000"/>
+      <media:content url="https://jchristov.github.io/smart-start-guides/covers/rome-expat-pl-full.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Нова глава в Рим – Наръчник за новодошли — Free 10-Page PDF</title>
+      <link>https://smartstartpub.gumroad.com/l/rome-expat-bg-free?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rome-expat-bg</link>
+      <guid isPermaLink="true">https://jchristov.github.io/smart-start-guides/bg/rome-expat/</guid>
+      <pubDate>Wed, 25 Nov 2026 18:08:47 GMT</pubDate>
+      <description>Практически наръчник за новодошлите в Рим (62 pages, Октомври 2026). Free 10-page starter PDF available.</description>
+      <enclosure url="https://jchristov.github.io/smart-start-guides/covers/rome-expat-bg-full.jpg" type="image/jpeg" length="24000"/>
+      <media:content url="https://jchristov.github.io/smart-start-guides/covers/rome-expat-bg-full.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Discover Rome – Travel Guide — Free 10-Page PDF</title>
+      <link>https://smartstartpub.gumroad.com/l/rome-travel-en-free?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rome-travel-en</link>
+      <guid isPermaLink="true">https://jchristov.github.io/smart-start-guides/en/rome-travel/</guid>
+      <pubDate>Wed, 25 Nov 2026 18:08:47 GMT</pubDate>
+      <description>A practical guide for visitors to Rome (74 pages, October 2026). Free 10-page starter PDF available.</description>
+      <enclosure url="https://jchristov.github.io/smart-start-guides/covers/rome-travel-en-full.jpg" type="image/jpeg" length="24000"/>
+      <media:content url="https://jchristov.github.io/smart-start-guides/covers/rome-travel-en-full.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Rom entdecken – Reiseführer — Free 10-Page PDF</title>
+      <link>https://smartstartpub.gumroad.com/l/rome-travel-de-free?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rome-travel-de</link>
+      <guid isPermaLink="true">https://jchristov.github.io/smart-start-guides/de/rome-travel/</guid>
+      <pubDate>Wed, 25 Nov 2026 18:08:47 GMT</pubDate>
+      <description>Ein praktischer Reiseführer für Besucher Roms (74 pages, Oktober 2026). Free 10-page starter PDF available.</description>
+      <enclosure url="https://jchristov.github.io/smart-start-guides/covers/rome-travel-de-full.jpg" type="image/jpeg" length="24000"/>
+      <media:content url="https://jchristov.github.io/smart-start-guides/covers/rome-travel-de-full.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Odkryj Rzym – Przewodnik turystyczny — Free 10-Page PDF</title>
+      <link>https://smartstartpub.gumroad.com/l/rome-travel-pl-free?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rome-travel-pl</link>
+      <guid isPermaLink="true">https://jchristov.github.io/smart-start-guides/pl/rome-travel/</guid>
+      <pubDate>Wed, 25 Nov 2026 18:08:47 GMT</pubDate>
+      <description>Praktyczny przewodnik dla odwiedzających Rzym (74 pages, Październik 2026). Free 10-page starter PDF available.</description>
+      <enclosure url="https://jchristov.github.io/smart-start-guides/covers/rome-travel-pl-full.jpg" type="image/jpeg" length="24000"/>
+      <media:content url="https://jchristov.github.io/smart-start-guides/covers/rome-travel-pl-full.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Открийте Рим – Пътеводител — Free 10-Page PDF</title>
+      <link>https://smartstartpub.gumroad.com/l/rome-travel-bg-free?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rome-travel-bg</link>
+      <guid isPermaLink="true">https://jchristov.github.io/smart-start-guides/bg/rome-travel/</guid>
+      <pubDate>Wed, 25 Nov 2026 18:08:47 GMT</pubDate>
+      <description>Практически пътеводител за посетителите на Рим (74 pages, Октомври 2026). Free 10-page starter PDF available.</description>
+      <enclosure url="https://jchristov.github.io/smart-start-guides/covers/rome-travel-bg-full.jpg" type="image/jpeg" length="24000"/>
+      <media:content url="https://jchristov.github.io/smart-start-guides/covers/rome-travel-bg-full.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>A New Chapter in Sofia – Expat Guide — Free 10-Page PDF</title>
+      <link>https://smartstartpub.gumroad.com/l/sofia-expat-en-free?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=sofia-expat-en</link>
+      <guid isPermaLink="true">https://jchristov.github.io/smart-start-guides/en/sofia-expat/</guid>
+      <pubDate>Wed, 25 Nov 2026 18:08:47 GMT</pubDate>
+      <description>A practical guide for newcomers to Sofia (59 pages, October 2026). Free 10-page starter PDF available.</description>
+      <enclosure url="https://jchristov.github.io/smart-start-guides/covers/sofia-expat-en-full.jpg" type="image/jpeg" length="24000"/>
+      <media:content url="https://jchristov.github.io/smart-start-guides/covers/sofia-expat-en-full.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Ein neues Kapitel in Sofia – Expat-Guide — Free 10-Page PDF</title>
+      <link>https://smartstartpub.gumroad.com/l/sofia-expat-de-free?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=sofia-expat-de</link>
+      <guid isPermaLink="true">https://jchristov.github.io/smart-start-guides/de/sofia-expat/</guid>
+      <pubDate>Wed, 25 Nov 2026 18:08:47 GMT</pubDate>
+      <description>Ein praktischer Leitfaden für Neuankömmlinge in Sofia (60 pages, Oktober 2026). Free 10-page starter PDF available.</description>
+      <enclosure url="https://jchristov.github.io/smart-start-guides/covers/sofia-expat-de-full.jpg" type="image/jpeg" length="24000"/>
+      <media:content url="https://jchristov.github.io/smart-start-guides/covers/sofia-expat-de-full.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Nowy rozdział w Sofii – Przewodnik dla przyjezdnych — Free 10-Page PDF</title>
+      <link>https://smartstartpub.gumroad.com/l/sofia-expat-pl-free?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=sofia-expat-pl</link>
+      <guid isPermaLink="true">https://jchristov.github.io/smart-start-guides/pl/sofia-expat/</guid>
+      <pubDate>Wed, 25 Nov 2026 18:08:47 GMT</pubDate>
+      <description>Praktyczny przewodnik dla osób przyjeżdżających do Sofii (60 pages, Październik 2026). Free 10-page starter PDF available.</description>
+      <enclosure url="https://jchristov.github.io/smart-start-guides/covers/sofia-expat-pl-full.jpg" type="image/jpeg" length="24000"/>
+      <media:content url="https://jchristov.github.io/smart-start-guides/covers/sofia-expat-pl-full.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Нова глава в София – Наръчник за новодошли — Free 10-Page PDF</title>
+      <link>https://smartstartpub.gumroad.com/l/sofia-expat-bg-free?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=sofia-expat-bg</link>
+      <guid isPermaLink="true">https://jchristov.github.io/smart-start-guides/bg/sofia-expat/</guid>
+      <pubDate>Wed, 25 Nov 2026 18:08:47 GMT</pubDate>
+      <description>Практически наръчник за новодошлите в София (59 pages, Октомври 2026). Free 10-page starter PDF available.</description>
+      <enclosure url="https://jchristov.github.io/smart-start-guides/covers/sofia-expat-bg-full.jpg" type="image/jpeg" length="24000"/>
+      <media:content url="https://jchristov.github.io/smart-start-guides/covers/sofia-expat-bg-full.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Discover Sofia – Travel Guide — Free 10-Page PDF</title>
+      <link>https://smartstartpub.gumroad.com/l/sofia-travel-en-free?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=sofia-travel-en</link>
+      <guid isPermaLink="true">https://jchristov.github.io/smart-start-guides/en/sofia-travel/</guid>
+      <pubDate>Wed, 25 Nov 2026 18:08:47 GMT</pubDate>
+      <description>A practical guide for visitors to Sofia (67 pages, October 2026). Free 10-page starter PDF available.</description>
+      <enclosure url="https://jchristov.github.io/smart-start-guides/covers/sofia-travel-en-full.jpg" type="image/jpeg" length="24000"/>
+      <media:content url="https://jchristov.github.io/smart-start-guides/covers/sofia-travel-en-full.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Sofia entdecken – Reiseführer — Free 10-Page PDF</title>
+      <link>https://smartstartpub.gumroad.com/l/sofia-travel-de-free?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=sofia-travel-de</link>
+      <guid isPermaLink="true">https://jchristov.github.io/smart-start-guides/de/sofia-travel/</guid>
+      <pubDate>Wed, 25 Nov 2026 18:08:47 GMT</pubDate>
+      <description>Ein praktischer Reiseführer für Besucher Sofias (67 pages, Oktober 2026). Free 10-page starter PDF available.</description>
+      <enclosure url="https://jchristov.github.io/smart-start-guides/covers/sofia-travel-de-full.jpg" type="image/jpeg" length="24000"/>
+      <media:content url="https://jchristov.github.io/smart-start-guides/covers/sofia-travel-de-full.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Odkryj Sofię – Przewodnik turystyczny — Free 10-Page PDF</title>
+      <link>https://smartstartpub.gumroad.com/l/sofia-travel-pl-free?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=sofia-travel-pl</link>
+      <guid isPermaLink="true">https://jchristov.github.io/smart-start-guides/pl/sofia-travel/</guid>
+      <pubDate>Wed, 25 Nov 2026 18:08:47 GMT</pubDate>
+      <description>Praktyczny przewodnik dla odwiedzających Sofię (67 pages, Październik 2026). Free 10-page starter PDF available.</description>
+      <enclosure url="https://jchristov.github.io/smart-start-guides/covers/sofia-travel-pl-full.jpg" type="image/jpeg" length="24000"/>
+      <media:content url="https://jchristov.github.io/smart-start-guides/covers/sofia-travel-pl-full.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Открийте София – Пътеводител — Free 10-Page PDF</title>
+      <link>https://smartstartpub.gumroad.com/l/sofia-travel-bg-free?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=sofia-travel-bg</link>
+      <guid isPermaLink="true">https://jchristov.github.io/smart-start-guides/bg/sofia-travel/</guid>
+      <pubDate>Wed, 25 Nov 2026 18:08:47 GMT</pubDate>
+      <description>Практически пътеводител за посетителите на София (67 pages, Октомври 2026). Free 10-page starter PDF available.</description>
+      <enclosure url="https://jchristov.github.io/smart-start-guides/covers/sofia-travel-bg-full.jpg" type="image/jpeg" length="24000"/>
+      <media:content url="https://jchristov.github.io/smart-start-guides/covers/sofia-travel-bg-full.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>A New Chapter in Stockholm – Expat Guide — Free 10-Page PDF</title>
+      <link>https://smartstartpub.gumroad.com/l/stockholm-expat-en-free?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=stockholm-expat-en</link>
+      <guid isPermaLink="true">https://jchristov.github.io/smart-start-guides/en/stockholm-expat/</guid>
+      <pubDate>Wed, 25 Nov 2026 18:08:47 GMT</pubDate>
+      <description>A practical guide for newcomers to Stockholm (66 pages, October 2026). Free 10-page starter PDF available.</description>
+      <enclosure url="https://jchristov.github.io/smart-start-guides/covers/stockholm-expat-en-full.jpg" type="image/jpeg" length="24000"/>
+      <media:content url="https://jchristov.github.io/smart-start-guides/covers/stockholm-expat-en-full.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Ein neues Kapitel in Stockholm – Expat-Guide — Free 10-Page PDF</title>
+      <link>https://smartstartpub.gumroad.com/l/stockholm-expat-de-free?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=stockholm-expat-de</link>
+      <guid isPermaLink="true">https://jchristov.github.io/smart-start-guides/de/stockholm-expat/</guid>
+      <pubDate>Wed, 25 Nov 2026 18:08:47 GMT</pubDate>
+      <description>Ein praktischer Leitfaden für Neuankömmlinge in Stockholm (66 pages, Oktober 2026). Free 10-page starter PDF available.</description>
+      <enclosure url="https://jchristov.github.io/smart-start-guides/covers/stockholm-expat-de-full.jpg" type="image/jpeg" length="24000"/>
+      <media:content url="https://jchristov.github.io/smart-start-guides/covers/stockholm-expat-de-full.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Nowy rozdział w Sztokholmie – Przewodnik dla przyjezdnych — Free 10-Page PDF</title>
+      <link>https://smartstartpub.gumroad.com/l/stockholm-expat-pl-free?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=stockholm-expat-pl</link>
+      <guid isPermaLink="true">https://jchristov.github.io/smart-start-guides/pl/stockholm-expat/</guid>
+      <pubDate>Wed, 25 Nov 2026 18:08:47 GMT</pubDate>
+      <description>Praktyczny przewodnik dla osób przyjeżdżających do Sztokholmu (66 pages, Październik 2026). Free 10-page starter PDF available.</description>
+      <enclosure url="https://jchristov.github.io/smart-start-guides/covers/stockholm-expat-pl-full.jpg" type="image/jpeg" length="24000"/>
+      <media:content url="https://jchristov.github.io/smart-start-guides/covers/stockholm-expat-pl-full.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Нова глава в Стокхолм – Наръчник за новодошли — Free 10-Page PDF</title>
+      <link>https://smartstartpub.gumroad.com/l/stockholm-expat-bg-free?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=stockholm-expat-bg</link>
+      <guid isPermaLink="true">https://jchristov.github.io/smart-start-guides/bg/stockholm-expat/</guid>
+      <pubDate>Wed, 25 Nov 2026 18:08:47 GMT</pubDate>
+      <description>Практически наръчник за новодошлите в Стокхолм (67 pages, Октомври 2026). Free 10-page starter PDF available.</description>
+      <enclosure url="https://jchristov.github.io/smart-start-guides/covers/stockholm-expat-bg-full.jpg" type="image/jpeg" length="24000"/>
+      <media:content url="https://jchristov.github.io/smart-start-guides/covers/stockholm-expat-bg-full.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Discover Stockholm – Travel Guide — Free 10-Page PDF</title>
+      <link>https://smartstartpub.gumroad.com/l/stockholm-travel-en-free?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=stockholm-travel-en</link>
+      <guid isPermaLink="true">https://jchristov.github.io/smart-start-guides/en/stockholm-travel/</guid>
+      <pubDate>Wed, 25 Nov 2026 18:08:47 GMT</pubDate>
+      <description>A practical guide for visitors to Stockholm (65 pages, October 2026). Free 10-page starter PDF available.</description>
+      <enclosure url="https://jchristov.github.io/smart-start-guides/covers/stockholm-travel-en-full.jpg" type="image/jpeg" length="24000"/>
+      <media:content url="https://jchristov.github.io/smart-start-guides/covers/stockholm-travel-en-full.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Stockholm entdecken – Reiseführer — Free 10-Page PDF</title>
+      <link>https://smartstartpub.gumroad.com/l/stockholm-travel-de-free?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=stockholm-travel-de</link>
+      <guid isPermaLink="true">https://jchristov.github.io/smart-start-guides/de/stockholm-travel/</guid>
+      <pubDate>Wed, 25 Nov 2026 18:08:47 GMT</pubDate>
+      <description>Ein praktischer Reiseführer für Besucher Stockholms (66 pages, Oktober 2026). Free 10-page starter PDF available.</description>
+      <enclosure url="https://jchristov.github.io/smart-start-guides/covers/stockholm-travel-de-full.jpg" type="image/jpeg" length="24000"/>
+      <media:content url="https://jchristov.github.io/smart-start-guides/covers/stockholm-travel-de-full.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Odkryj Sztokholm – Przewodnik turystyczny — Free 10-Page PDF</title>
+      <link>https://smartstartpub.gumroad.com/l/stockholm-travel-pl-free?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=stockholm-travel-pl</link>
+      <guid isPermaLink="true">https://jchristov.github.io/smart-start-guides/pl/stockholm-travel/</guid>
+      <pubDate>Wed, 25 Nov 2026 18:08:47 GMT</pubDate>
+      <description>Praktyczny przewodnik dla odwiedzających Sztokholm (65 pages, Październik 2026). Free 10-page starter PDF available.</description>
+      <enclosure url="https://jchristov.github.io/smart-start-guides/covers/stockholm-travel-pl-full.jpg" type="image/jpeg" length="24000"/>
+      <media:content url="https://jchristov.github.io/smart-start-guides/covers/stockholm-travel-pl-full.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Открийте Стокхолм – Пътеводител — Free 10-Page PDF</title>
+      <link>https://smartstartpub.gumroad.com/l/stockholm-travel-bg-free?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=stockholm-travel-bg</link>
+      <guid isPermaLink="true">https://jchristov.github.io/smart-start-guides/bg/stockholm-travel/</guid>
+      <pubDate>Wed, 25 Nov 2026 18:08:47 GMT</pubDate>
+      <description>Практически пътеводител за посетителите на Стокхолм (67 pages, Октомври 2026). Free 10-page starter PDF available.</description>
+      <enclosure url="https://jchristov.github.io/smart-start-guides/covers/stockholm-travel-bg-full.jpg" type="image/jpeg" length="24000"/>
+      <media:content url="https://jchristov.github.io/smart-start-guides/covers/stockholm-travel-bg-full.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>A New Chapter in Vienna – Expat Guide — Free 10-Page PDF</title>
+      <link>https://smartstartpub.gumroad.com/l/vienna-expat-en-free?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=vienna-expat-en</link>
+      <guid isPermaLink="true">https://jchristov.github.io/smart-start-guides/en/vienna-expat/</guid>
+      <pubDate>Wed, 25 Nov 2026 18:08:47 GMT</pubDate>
+      <description>A practical guide for newcomers to Vienna (59 pages, September 2026). Free 10-page starter PDF available.</description>
+      <enclosure url="https://jchristov.github.io/smart-start-guides/covers/vienna-expat-en-full.jpg" type="image/jpeg" length="24000"/>
+      <media:content url="https://jchristov.github.io/smart-start-guides/covers/vienna-expat-en-full.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Ein neues Kapitel in Wien – Expat-Guide — Free 10-Page PDF</title>
+      <link>https://smartstartpub.gumroad.com/l/vienna-expat-de-free?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=vienna-expat-de</link>
+      <guid isPermaLink="true">https://jchristov.github.io/smart-start-guides/de/vienna-expat/</guid>
+      <pubDate>Wed, 25 Nov 2026 18:08:47 GMT</pubDate>
+      <description>Ein praktischer Leitfaden für Neuankömmlinge in Wien (59 pages, September 2026). Free 10-page starter PDF available.</description>
+      <enclosure url="https://jchristov.github.io/smart-start-guides/covers/vienna-expat-de-full.jpg" type="image/jpeg" length="24000"/>
+      <media:content url="https://jchristov.github.io/smart-start-guides/covers/vienna-expat-de-full.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Nowy rozdział w Wiedniu – Przewodnik dla przyjezdnych — Free 10-Page PDF</title>
+      <link>https://smartstartpub.gumroad.com/l/vienna-expat-pl-free?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=vienna-expat-pl</link>
+      <guid isPermaLink="true">https://jchristov.github.io/smart-start-guides/pl/vienna-expat/</guid>
+      <pubDate>Wed, 25 Nov 2026 18:08:47 GMT</pubDate>
+      <description>Praktyczny przewodnik dla osób przyjeżdżających do Wiednia (59 pages, Wrzesień 2026). Free 10-page starter PDF available.</description>
+      <enclosure url="https://jchristov.github.io/smart-start-guides/covers/vienna-expat-pl-full.jpg" type="image/jpeg" length="24000"/>
+      <media:content url="https://jchristov.github.io/smart-start-guides/covers/vienna-expat-pl-full.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Нова глава във Виена – Наръчник за новодошли — Free 10-Page PDF</title>
+      <link>https://smartstartpub.gumroad.com/l/vienna-expat-bg-free?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=vienna-expat-bg</link>
+      <guid isPermaLink="true">https://jchristov.github.io/smart-start-guides/bg/vienna-expat/</guid>
+      <pubDate>Wed, 25 Nov 2026 18:08:47 GMT</pubDate>
+      <description>Практически наръчник за новодошлите във Виена (59 pages, Септември 2026). Free 10-page starter PDF available.</description>
+      <enclosure url="https://jchristov.github.io/smart-start-guides/covers/vienna-expat-bg-full.jpg" type="image/jpeg" length="24000"/>
+      <media:content url="https://jchristov.github.io/smart-start-guides/covers/vienna-expat-bg-full.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Discover Vienna – Travel Guide — Free 10-Page PDF</title>
+      <link>https://smartstartpub.gumroad.com/l/vienna-travel-en-free?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=vienna-travel-en</link>
+      <guid isPermaLink="true">https://jchristov.github.io/smart-start-guides/en/vienna-travel/</guid>
+      <pubDate>Wed, 25 Nov 2026 18:08:47 GMT</pubDate>
+      <description>A practical guide for visitors to Vienna (72 pages, October 2026). Free 10-page starter PDF available.</description>
+      <enclosure url="https://jchristov.github.io/smart-start-guides/covers/vienna-travel-en-full.jpg" type="image/jpeg" length="24000"/>
+      <media:content url="https://jchristov.github.io/smart-start-guides/covers/vienna-travel-en-full.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Wien entdecken – Reiseführer — Free 10-Page PDF</title>
+      <link>https://smartstartpub.gumroad.com/l/vienna-travel-de-free?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=vienna-travel-de</link>
+      <guid isPermaLink="true">https://jchristov.github.io/smart-start-guides/de/vienna-travel/</guid>
+      <pubDate>Wed, 25 Nov 2026 18:08:47 GMT</pubDate>
+      <description>Ein praktischer Reiseführer für Besucher Wiens (72 pages, Oktober 2026). Free 10-page starter PDF available.</description>
+      <enclosure url="https://jchristov.github.io/smart-start-guides/covers/vienna-travel-de-full.jpg" type="image/jpeg" length="24000"/>
+      <media:content url="https://jchristov.github.io/smart-start-guides/covers/vienna-travel-de-full.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Odkryj Wiedeń – Przewodnik turystyczny — Free 10-Page PDF</title>
+      <link>https://smartstartpub.gumroad.com/l/vienna-travel-pl-free?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=vienna-travel-pl</link>
+      <guid isPermaLink="true">https://jchristov.github.io/smart-start-guides/pl/vienna-travel/</guid>
+      <pubDate>Wed, 25 Nov 2026 18:08:47 GMT</pubDate>
+      <description>Praktyczny przewodnik dla odwiedzających Wiedeń (72 pages, Październik 2026). Free 10-page starter PDF available.</description>
+      <enclosure url="https://jchristov.github.io/smart-start-guides/covers/vienna-travel-pl-full.jpg" type="image/jpeg" length="24000"/>
+      <media:content url="https://jchristov.github.io/smart-start-guides/covers/vienna-travel-pl-full.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Открийте Виена – Пътеводител — Free 10-Page PDF</title>
+      <link>https://smartstartpub.gumroad.com/l/vienna-travel-bg-free?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=vienna-travel-bg</link>
+      <guid isPermaLink="true">https://jchristov.github.io/smart-start-guides/bg/vienna-travel/</guid>
+      <pubDate>Wed, 25 Nov 2026 18:08:47 GMT</pubDate>
+      <description>Практически пътеводител за посетителите на Виена (72 pages, Октомври 2026). Free 10-page starter PDF available.</description>
+      <enclosure url="https://jchristov.github.io/smart-start-guides/covers/vienna-travel-bg-full.jpg" type="image/jpeg" length="24000"/>
+      <media:content url="https://jchristov.github.io/smart-start-guides/covers/vienna-travel-bg-full.jpg" medium="image" type="image/jpeg"/>
+    </item>
+  </channel>
+</rss>

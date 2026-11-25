@@ -1,0 +1,51 @@
+# Smart Start City Guides
+
+> Practical, print-ready A4 PDF guides for relocating to (Expat) and visiting (Travel) 11 European cities, published in English, German, Polish, and Bulgarian. Every guide includes a free 10-page starter PDF and a full 60+ page edition.
+
+- Storefront: https://smartstartpub.gumroad.com/
+- Web Catalog: https://jchristov.github.io/smart-start-guides/
+- RSS Feed (All Languages): https://jchristov.github.io/smart-start-guides/feed.xml
+- Sitemap: https://jchristov.github.io/smart-start-guides/sitemap.xml
+
+## Cities Covered (11)
+- Barcelona: Expat (https://jchristov.github.io/smart-start-guides/en/barcelona-expat/) · Travel (https://jchristov.github.io/smart-start-guides/en/barcelona-travel/)
+- Berlin: Expat (https://jchristov.github.io/smart-start-guides/en/berlin-expat/) · Travel (https://jchristov.github.io/smart-start-guides/en/berlin-travel/)
+- Budapest: Expat (https://jchristov.github.io/smart-start-guides/en/budapest-expat/) · Travel (https://jchristov.github.io/smart-start-guides/en/budapest-travel/)
+- London: Expat (https://jchristov.github.io/smart-start-guides/en/london-expat/) · Travel (https://jchristov.github.io/smart-start-guides/en/london-travel/)
+- Madrid: Expat (https://jchristov.github.io/smart-start-guides/en/madrid-expat/) · Travel (https://jchristov.github.io/smart-start-guides/en/madrid-travel/)
+- Paris: Expat (https://jchristov.github.io/smart-start-guides/en/paris-expat/) · Travel (https://jchristov.github.io/smart-start-guides/en/paris-travel/)
+- Prague: Expat (https://jchristov.github.io/smart-start-guides/en/prague-expat/) · Travel (https://jchristov.github.io/smart-start-guides/en/prague-travel/)
+- Rome: Expat (https://jchristov.github.io/smart-start-guides/en/rome-expat/) · Travel (https://jchristov.github.io/smart-start-guides/en/rome-travel/)
+- Sofia: Expat (https://jchristov.github.io/smart-start-guides/en/sofia-expat/) · Travel (https://jchristov.github.io/smart-start-guides/en/sofia-travel/)
+- Stockholm: Expat (https://jchristov.github.io/smart-start-guides/en/stockholm-expat/) · Travel (https://jchristov.github.io/smart-start-guides/en/stockholm-travel/)
+- Vienna: Expat (https://jchristov.github.io/smart-start-guides/en/vienna-expat/) · Travel (https://jchristov.github.io/smart-start-guides/en/vienna-travel/)
+
+## Language Hubs
+- English: https://jchristov.github.io/smart-start-guides/en/ (Collection: https://smartstartpub.gumroad.com/l/collection-en)
+- Deutsch: https://jchristov.github.io/smart-start-guides/de/ (Collection: https://smartstartpub.gumroad.com/l/collection-de)
+- Polski: https://jchristov.github.io/smart-start-guides/pl/ (Collection: https://smartstartpub.gumroad.com/l/collection-pl)
+- Български: https://jchristov.github.io/smart-start-guides/bg/ (Collection: https://smartstartpub.gumroad.com/l/collection-bg)
+
+## Direct Free 10-Page Starter Guides (English)
+- A New Chapter in Barcelona – Expat Guide (59 pages full / 10 pages free): https://smartstartpub.gumroad.com/l/barcelona-expat-en-free | Preview: https://jchristov.github.io/smart-start-guides/en/barcelona-expat/
+- Discover Barcelona – Travel Guide (71 pages full / 10 pages free): https://smartstartpub.gumroad.com/l/barcelona-travel-en-free | Preview: https://jchristov.github.io/smart-start-guides/en/barcelona-travel/
+- A New Chapter in Berlin – Expat Guide (58 pages full / 10 pages free): https://smartstartpub.gumroad.com/l/berlin-expat-en-free | Preview: https://jchristov.github.io/smart-start-guides/en/berlin-expat/
+- Discover Berlin – Travel Guide (73 pages full / 10 pages free): https://smartstartpub.gumroad.com/l/berlin-travel-en-free | Preview: https://jchristov.github.io/smart-start-guides/en/berlin-travel/
+- A New Chapter in Budapest – Expat Guide (66 pages full / 10 pages free): https://smartstartpub.gumroad.com/l/budapest-expat-en-free | Preview: https://jchristov.github.io/smart-start-guides/en/budapest-expat/
+- Discover Budapest – Travel Guide (70 pages full / 10 pages free): https://smartstartpub.gumroad.com/l/budapest-travel-en-free | Preview: https://jchristov.github.io/smart-start-guides/en/budapest-travel/
+- A New Chapter in London – Expat Guide (64 pages full / 10 pages free): https://smartstartpub.gumroad.com/l/london-expat-en-free | Preview: https://jchristov.github.io/smart-start-guides/en/london-expat/
+- Discover London – Travel Guide (73 pages full / 10 pages free): https://smartstartpub.gumroad.com/l/london-travel-en-free | Preview: https://jchristov.github.io/smart-start-guides/en/london-travel/
+- A New Chapter in Madrid – Expat Guide (67 pages full / 10 pages free): https://smartstartpub.gumroad.com/l/madrid-expat-en-free | Preview: https://jchristov.github.io/smart-start-guides/en/madrid-expat/
+- Discover Madrid – Travel Guide (69 pages full / 10 pages free): https://smartstartpub.gumroad.com/l/madrid-travel-en-free | Preview: https://jchristov.github.io/smart-start-guides/en/madrid-travel/
+- A New Chapter in Paris – Expat Guide (64 pages full / 10 pages free): https://smartstartpub.gumroad.com/l/paris-expat-en-free | Preview: https://jchristov.github.io/smart-start-guides/en/paris-expat/
+- Discover Paris – Travel Guide (76 pages full / 10 pages free): https://smartstartpub.gumroad.com/l/paris-travel-en-free | Preview: https://jchristov.github.io/smart-start-guides/en/paris-travel/
+- A New Chapter in Prague – Expat Guide (67 pages full / 10 pages free): https://smartstartpub.gumroad.com/l/prague-expat-en-free | Preview: https://jchristov.github.io/smart-start-guides/en/prague-expat/
+- Discover Prague – Travel Guide (66 pages full / 10 pages free): https://smartstartpub.gumroad.com/l/prague-travel-en-free | Preview: https://jchristov.github.io/smart-start-guides/en/prague-travel/
+- A New Chapter in Rome – Expat Guide (62 pages full / 10 pages free): https://smartstartpub.gumroad.com/l/rome-expat-en-free | Preview: https://jchristov.github.io/smart-start-guides/en/rome-expat/
+- Discover Rome – Travel Guide (74 pages full / 10 pages free): https://smartstartpub.gumroad.com/l/rome-travel-en-free | Preview: https://jchristov.github.io/smart-start-guides/en/rome-travel/
+- A New Chapter in Sofia – Expat Guide (59 pages full / 10 pages free): https://smartstartpub.gumroad.com/l/sofia-expat-en-free | Preview: https://jchristov.github.io/smart-start-guides/en/sofia-expat/
+- Discover Sofia – Travel Guide (67 pages full / 10 pages free): https://smartstartpub.gumroad.com/l/sofia-travel-en-free | Preview: https://jchristov.github.io/smart-start-guides/en/sofia-travel/
+- A New Chapter in Stockholm – Expat Guide (66 pages full / 10 pages free): https://smartstartpub.gumroad.com/l/stockholm-expat-en-free | Preview: https://jchristov.github.io/smart-start-guides/en/stockholm-expat/
+- Discover Stockholm – Travel Guide (65 pages full / 10 pages free): https://smartstartpub.gumroad.com/l/stockholm-travel-en-free | Preview: https://jchristov.github.io/smart-start-guides/en/stockholm-travel/
+- A New Chapter in Vienna – Expat Guide (59 pages full / 10 pages free): https://smartstartpub.gumroad.com/l/vienna-expat-en-free | Preview: https://jchristov.github.io/smart-start-guides/en/vienna-expat/
+- Discover Vienna – Travel Guide (72 pages full / 10 pages free): https://smartstartpub.gumroad.com/l/vienna-travel-en-free | Preview: https://jchristov.github.io/smart-start-guides/en/vienna-travel/
