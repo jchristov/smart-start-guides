@@ -1,4 +1,4 @@
-name: Weekly SEO & IndexNow Autopromote
+name: Weekly SEO, RSS, WebSub & IndexNow Autopromote
 
 on:
   schedule:
@@ -26,7 +26,6 @@ jobs:
               if (!fs.existsSync(f)) continue;
               let xml = fs.readFileSync(f, "utf8");
               xml = xml.replace(/<lastBuildDate>[^<]+<\/lastBuildDate>/, "<lastBuildDate>" + rfc + "</lastBuildDate>");
-              // Rotate first <item> to end so RSS readers/Pinterest see a fresh weekly top item
               const items = xml.match(/    <item>[\s\S]*?<\/item>/g);
               if (items && items.length > 2) {
                 const moved = items.shift();
@@ -48,21 +47,28 @@ jobs:
           git diff --cached --quiet || git commit -m "chore: weekly RSS spotlight & sitemap refresh"
           git push
 
-      - name: Ping IndexNow (Bing / DuckDuckGo / Yandex / ChatGPT Search)
+      - name: Ping IndexNow & WebSub (PubSubHubbub)
         run: |
           node -e '
-            const fs = require("fs");
-            const sm = fs.readFileSync("sitemap.xml", "utf8");
-            const urlList = [...sm.matchAll(/<loc>([^<]+)<\/loc>/g)].map(m => m[1]);
-            const body = {
-              host: "jchristov.github.io",
-              key: "d1e545929f8255a5d5b6ec796031d96f",
-              keyLocation: "https://jchristov.github.io/smart-start-guides/d1e545929f8255a5d5b6ec796031d96f.txt",
-              urlList
-            };
-            fetch("https://api.indexnow.org/indexnow", {
-              method: "POST",
-              headers: { "Content-Type": "application/json; charset=utf-8" },
-              body: JSON.stringify(body)
-            }).then(r => console.log("IndexNow status:", r.status)).catch(e => console.error(e));
+            (async () => {
+              const fs = require("fs");
+              const sm = fs.readFileSync("sitemap.xml", "utf8");
+              const urlList = [...sm.matchAll(/<loc>([^<]+)<\/loc>/g)].map(m => m[1]);
+              const r1 = await fetch("https://api.indexnow.org/indexnow", {
+                method: "POST",
+                headers: { "Content-Type": "application/json; charset=utf-8" },
+                body: JSON.stringify({
+                  host: "jchristov.github.io",
+                  key: "d1e545929f8255a5d5b6ec796031d96f",
+                  keyLocation: "https://jchristov.github.io/smart-start-guides/d1e545929f8255a5d5b6ec796031d96f.txt",
+                  urlList
+                })
+              });
+              console.log("IndexNow status:", r1.status);
+              for (const f of ["feed.xml", "feed-en.xml", "feed-de.xml", "feed-pl.xml", "feed-bg.xml"]) {
+                const body = new URLSearchParams({ "hub.mode": "publish", "hub.url": "https://jchristov.github.io/smart-start-guides/" + f });
+                const r2 = await fetch("https://pubsubhubbub.appspot.com/", { method: "POST", body });
+                console.log("WebSub", f, r2.status);
+              }
+            })();
           '
